@@ -10,6 +10,6 @@ Author: Nicolas Tabareau
 Pdf: ../documents/Rapport_M2.pdf
 Slides: ../documents/Slides_M2.pdf
 
-J’ai passé le premier semestre 2019 comme stagiaire sous la supervision de [Nicolas Tabareau](http://tabareau.fr/).
+J’ai passé le premier semestre 2019 comme stagiaire sous la supervision de [Nicolas Tabareau](https://tabareau.fr/).
 On a travaillé avec [Éric Tanter](https://pleiad.cl/people/etanter) à appliquer l’approche du typage graduel au calcul des constructions inductives.
 Même si ce stage a donné lieu à un rapport et à une soutenance, celles-ci sont obsolètes – voir à la place la [publication à POPL '21](publications).

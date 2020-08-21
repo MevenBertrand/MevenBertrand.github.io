@@ -34,7 +34,7 @@ AUTHOR_FEED_RSS = None
 # Social widget
 #SOCIAL = (('GitHub', 'https://github.com/MevenBertrand'),)
 
-DEFAULT_PAGINATION = None
+DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -58,7 +58,7 @@ DATEISH_PROPERTIES = ['start','end']
 
 #Authors webpage
 author_webpage = {
-             "Nicolas Tabareau": "https://tabareau.fr",
+             "Nicolas Tabareau": "http://tabareau.fr",
              "Éric Tanter": "https://pleiad.cl/people/etanter",
              "Hugo Herbelin": "http://pauillac.inria.fr/~herbelin/",
              "Jurriaan Rot": "http://jurriaan.me/",
