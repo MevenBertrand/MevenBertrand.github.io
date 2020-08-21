@@ -48,8 +48,7 @@ netifaces==0.10.4
 oauthlib==3.1.0
 olefile==0.46
 paramiko==2.6.0
-# Editable install with no version control (pelican==4.2.0)
--e /home/meven/.local/lib/python3.8/site-packages
+pelican==4.2.0
 pexpect==4.6.0
 Pillow==7.0.0
 pipenv==11.9.0
