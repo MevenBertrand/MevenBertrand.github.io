@@ -1,0 +1,42 @@
+<footer class="post-info">
+{% if article.publication %}
+        {% if article.authors %}
+                <address class="vcard author">
+                {% for author in article.authors %}
+                        <a class="url fn" href="{{ author | lookup_author_webpage }}">{{ author }}</a>{% if not loop.last %},{% endif %}
+                {% endfor %}
+                </address>
+        {% endif %}
+        <span class="conference">
+                {{article.place}} {{article.date | strftime('%Y')}} {% if article.submitted %}(submitted){% endif %}
+        </abbr>
+
+{% else %}
+        {% if article.start and article.end %}
+                {{ article.start | strftime('%B %Y')}} – {{ article.end | strftime('%B %Y') }}
+        {% elif article.ongoing %}
+                {{ article.locale_date}} – …
+        {% else %}
+                {{ article.locale_date }}
+        {% endif %}
+
+        {% if article.place and article.authors %}
+                <address class="vcard author">
+                {{ article.place}}, 
+                {% trans %}with{% endtrans %} {% for author in article.authors %}
+                        <a class="url fn" href="{{ author | lookup_author_webpage }}">{{ author }}</a>{% if not loop.last %},{% endif %}
+                {% endfor %}
+                </address>
+        {% elif article.place %}
+        <address class="vcard author">
+        {{ article.place}}
+        </address>
+        {% elif article.authors %}
+                <address class="vcard author">
+                {% trans %}With{% endtrans %} {% for author in article.authors %}
+                        <a class="url fn" href="{{ author | lookup_author_webpage }}">{{ author }}</a>{% if not loop.last %},{% endif %}
+                {% endfor %}
+                </address>
+        {% endif %}
+{% endif %}
+</footer><!-- /.post-info -->

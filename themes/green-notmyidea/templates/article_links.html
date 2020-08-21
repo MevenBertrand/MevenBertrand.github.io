@@ -1,0 +1,14 @@
+<div class ="article-links">
+{% if article.pdf %}
+  <a href="{{article.pdf}}">Pdf</a>
+{% endif %}
+{% if article.slides %}
+  <a href="{{article.slides}}">Slides</a>
+{% endif %}
+{% if article.hal %}
+  <a href="{{article.hal}}">Hal</a>
+{% endif %}
+{% if article.video %}
+  <a href="{{article.video}}">Video</a>
+{% endif %}
+</div>
