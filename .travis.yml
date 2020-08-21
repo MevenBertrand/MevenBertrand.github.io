@@ -5,10 +5,4 @@ branches:
 install:
 - pip3 install -r requirements.txt
 script:
-- make publish
-deploy:
-  provider: pages
-  local_dir: ./output
-  target_branch: gh-pages
-  on:
-    branch: source
+- make github
