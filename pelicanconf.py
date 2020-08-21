@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 #AUTHOR = 'Meven Bertrand'
 SITENAME = 'Meven Bertrand'
 SITEURL = ''
+CNAME = 'meven.ac'
 
 PATH = 'content'
 STATIC_PATHS = ['documents','images']
