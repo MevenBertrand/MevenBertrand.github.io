@@ -5,13 +5,12 @@ from __future__ import unicode_literals
 #AUTHOR = 'Meven Bertrand'
 SITENAME = 'Meven Bertrand'
 SITEURL = ''
-CNAME = 'meven.ac'
 
 PATH = 'content'
 STATIC_PATHS = ['documents','images']
 
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ['i18n_subsites', 'pin_to_top', 'dateish']
+PLUGINS = ['i18n_subsites', 'pin_to_top', 'dateish','add_cname']
 JINJA_ENVIRONMENT = {
   'extensions': ['jinja2.ext.i18n']
 }
