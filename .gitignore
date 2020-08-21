@@ -1,2 +1,12 @@
 
 themes/notmyidea/
+
+output/
+
+plugins/dateish/__pycache__/
+
+plugins/i18n_subsites/__pycache__/
+
+plugins/pin_to_top/__pycache__/
+
+__pycache__/
