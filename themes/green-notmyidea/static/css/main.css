@@ -52,9 +52,9 @@ hr { border: 2px solid #fff; }
 a {outline: 0;}
 a img {border: 0px; text-decoration: none;}
 a:link, a:visited {
-	color: forestgreen;
+	color: inherit;
 	padding: 0 1px;
-	text-decoration: initial;
+	text-decoration: underline dotted forestgreen;
 }
 a:hover, a:active {
 	background-color: forestgreen;
