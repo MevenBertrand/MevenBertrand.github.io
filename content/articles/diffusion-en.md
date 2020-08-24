@@ -1,5 +1,5 @@
 Title: Dissemination
-Slug: Dissemination
+Slug: diffusion
 Category: Dissemination
 Pin: true
 Lang: en

@@ -1,5 +1,5 @@
 Title: Diffusion
-Slug: Diffusion
+Slug: diffusion
 Category: Diffusion
 Pin: true
 Lang: fr
