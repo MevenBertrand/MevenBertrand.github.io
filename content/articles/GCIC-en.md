@@ -7,5 +7,5 @@ Date: 2021-01-01
 Submitted: true
 Place: POPL
 Authors: Meven Bertrand, Kenji Maillard, Nicolas Tabareau, Éric Tanter
-Pdf: https://hal.archives-ouvertes.fr/hal-02896776/document
+Pdf_ex: https://hal.archives-ouvertes.fr/hal-02896776/document
 Hal: https://hal.archives-ouvertes.fr/hal-02896776v1

@@ -7,8 +7,8 @@ Start: 2016-06-09
 End: 2016-07-22
 Place: IRIF (Université Paris 7)
 Author: Hugo Herbelin
-Pdf: ../documents/Rapport_L3.pdf
-Slides: ../documents/Slides_L3.pdf
+Pdf_loc: Rapport_L3.pdf
+Slides_loc: Slides_L3.pdf
 
 En 2016, j’ai été en stage pendant 2 mois avec [Hugo Herbelin](http://pauillac.inria.fr/~herbelin/).
 Le but était de construire un algoritme pour compiler des filtrages par motifs dépendants et complexes sans utiliser

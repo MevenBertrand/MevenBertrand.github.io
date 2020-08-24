@@ -1,6 +1,6 @@
 Title:  Mathematical Recreation Seminar
 Slug: mmi
-Category: Diffusion
+Category: Dissemination
 Lang: en
 Date: 2018-09-01
 Start: 2018-09-01

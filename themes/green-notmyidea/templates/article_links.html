@@ -1,9 +1,15 @@
 <div class ="article-links">
-{% if article.pdf %}
-  <a href="{{article.pdf}}">Pdf</a>
+{% if article.pdf_ex %}
+  <a href="{{article.pdf_ex}}">Pdf</a>
 {% endif %}
-{% if article.slides %}
-  <a href="{{article.slides}}">Slides</a>
+{% if article.pdf_loc %}
+  <a href="{{SITE_URL}}/documents/{{article.pdf_loc}}">Pdf</a>
+{% endif %}
+{% if article.slides_ex %}
+  <a href="{{article.slides_ex}}">Slides</a>
+{% endif %}
+{% if article.slides_loc %}
+<a href="{{SITE_URL}}/documents/{{article.slides_loc}}">Slides</a>
 {% endif %}
 {% if article.hal %}
   <a href="{{article.hal}}">Hal</a>

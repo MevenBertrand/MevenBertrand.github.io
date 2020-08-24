@@ -8,8 +8,8 @@ End: 2017-07-28
 Place: Radboud Universiteit Nijmegen
 Author: Jurriaan Rot
 Link: https://arxiv.org/abs/1804.02546
-Pdf: https://arxiv.org/pdf/1804.02546.pdf
-Slides: ../documents/Slides_M1.pdf
+Pdf_ex: https://arxiv.org/pdf/1804.02546.pdf
+Slides_loc: Slides_M1.pdf
 
 Au premier semestre 2017, j’étais en stage avec [Juriaan Rot](http://jurriaan.me/).
 Le sujet était les [automates alternants](https://fr.wikipedia.org/wiki/Automate_fini_alternant), avec une approche coalgébrique.
