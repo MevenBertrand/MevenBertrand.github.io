@@ -1,5 +1,5 @@
 Title: Four colors theorem
-Slug: 4-colors
+Slug: coloration
 Category: Dissemination
 Lang: en
 Date: 2020-01-17

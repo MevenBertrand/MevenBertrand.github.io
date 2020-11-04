@@ -11,5 +11,5 @@ Link: https://arxiv.org/abs/1804.02546
 Pdf_ex: https://arxiv.org/pdf/1804.02546.pdf
 Slides_loc: Slides_M1.pdf
 
-Au premier semestre 2017, j’étais en stage avec [Juriaan Rot](http://jurriaan.me/).
-Le sujet était les [automates alternants](https://fr.wikipedia.org/wiki/Automate_fini_alternant), avec une approche coalgébrique.
+Au premier semestre 2017, j’ai effectué un stage avec [Jurriaan Rot](http://jurriaan.me/).
+L’objectif était d’étudier les [automates alternants](https://fr.wikipedia.org/wiki/Automate_fini_alternant) avec une approche coalgébrique.

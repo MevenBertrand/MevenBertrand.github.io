@@ -1,5 +1,5 @@
 Title: Théorème des 4 couleurs
-Slug: 4-colors
+Slug: coloration
 Category: Diffusion
 Lang: fr
 Date: 2020-01-17

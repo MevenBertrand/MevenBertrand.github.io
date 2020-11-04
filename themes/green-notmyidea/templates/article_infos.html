@@ -8,7 +8,9 @@
                 </address>
         {% endif %}
         <span class="conference">
-                {{article.place}} {{article.date | strftime('%Y')}} {% if article.submitted %}(submitted){% endif %}
+                {% if article.accepted %} {{article.place}} {{article.date | strftime('%Y')}} {% endif %}
+                {% if article.submitted %} {{article.place}} {{article.date | strftime('%Y')}} (submitted) {% endif %}
+                {% if article.draft %} {{article.place}} {{article.date | strftime('%Y')}} (draft) {% endif %}
         </abbr>
 
 {% else %}

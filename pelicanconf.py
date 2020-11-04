@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-#AUTHOR = 'Meven Bertrand'
-SITENAME = 'Meven Bertrand'
-SITEURL = ''
+#AUTHOR = 'Meven Lennon-Bertrand'
+SITENAME = 'Meven Lennon-Bertrand'
+SITEURL = 'https://www.meven.ac'
 
 PATH = 'content'
 STATIC_PATHS = ['documents','images']
@@ -62,7 +62,7 @@ author_webpage = {
              "Éric Tanter": "https://pleiad.cl/people/etanter",
              "Hugo Herbelin": "http://pauillac.inria.fr/~herbelin/",
              "Jurriaan Rot": "http://jurriaan.me/",
-             "Meven Bertrand": '',
+             "Meven Lennon-Bertrand": '',
              "Kenji Maillard": "https://kenji.maillard.blue/",
              }
 
