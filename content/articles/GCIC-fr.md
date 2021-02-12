@@ -4,7 +4,7 @@ Category: Publications
 Publication: true
 Lang: fr
 Date: 2021-01-01
-Draft: true
+Submitted: true
 Authors: Meven Lennon-Bertrand, Kenji Maillard, Nicolas Tabareau, Éric Tanter
-Pdf: https://hal.archives-ouvertes.fr/hal-02896776/document
-Hal: https://hal.archives-ouvertes.fr/hal-02896776v1
+Pdf_ex: https://hal.archives-ouvertes.fr/hal-02896776v2/document
+Hal: https://hal.archives-ouvertes.fr/hal-02896776v2

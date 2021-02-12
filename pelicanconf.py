@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 #AUTHOR = 'Meven Lennon-Bertrand'
 SITENAME = 'Meven Lennon-Bertrand'
-SITEURL = 'https://www.meven.ac'
+#SITEURL = 'https://www.meven.ac'
 
 PATH = 'content'
 STATIC_PATHS = ['documents','images']
