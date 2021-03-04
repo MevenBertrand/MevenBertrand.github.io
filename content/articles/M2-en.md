@@ -10,6 +10,6 @@ Author: Nicolas Tabareau
 Pdf_loc: Rapport_M2.pdf
 Slides_loc: Slides_M2.pdf
 
-In the spring semester of 2019 I was an intern under the supervision of [Nicolas Tabareau](https://tabareau.fr/).
-We worked with [Éric Tanter](https://pleiad.cl/people/etanter) on applying the gradual typing approach to the Calculus of Inductive Constructions.
-Although the internship led to a thesis and defense, those are outdated – see the [corresponding draft publication](publications) instead.
+For my masters thesis I worked as an intern under the supervision of [Nicolas Tabareau](https://tabareau.fr/).
+We collaborated with [Éric Tanter](https://pleiad.cl/people/etanter) on applying the gradual typing approach to the Calculus of Inductive Constructions.
+Although the internship led to a thesis and defence, those are outdated – see the [corresponding publication](publications) instead.

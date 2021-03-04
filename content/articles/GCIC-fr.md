@@ -8,3 +8,4 @@ Submitted: true
 Authors: Meven Lennon-Bertrand, Kenji Maillard, Nicolas Tabareau, Éric Tanter
 Pdf_ex: https://hal.archives-ouvertes.fr/hal-02896776v2/document
 Hal: https://hal.archives-ouvertes.fr/hal-02896776v2
+Arxiv: https://arxiv.org/abs/2011.10618

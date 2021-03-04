@@ -15,6 +15,12 @@
   <a href="{{article.hal}}">Hal</a>
 {% endif %}
 {% if article.video %}
-  <a href="{{article.video}}">Video</a>
+  <a href="{{article.video}}">{% trans %}Video{% endtrans %} </a>
+{% endif %}
+{% if article.arxiv %}
+  <a href="{{article.arxiv}}">arXiv</a>
+{% endif %}
+{% if article.page %}
+  <a href="{{article.page}}">Page</a>
 {% endif %}
 </div>

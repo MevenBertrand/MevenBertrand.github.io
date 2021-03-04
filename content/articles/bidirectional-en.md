@@ -8,3 +8,4 @@ Submitted: true
 Authors: Meven Lennon-Bertrand
 Pdf_ex: https://hal.archives-ouvertes.fr/hal-03139924/document
 Hal: https://hal.archives-ouvertes.fr/hal-03139924
+Arxiv: https://arxiv.org/abs/2102.06513
