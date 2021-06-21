@@ -1,4 +1,7 @@
 <div class ="article-links">
+  {% if article.doi %}
+  <a href="http://doi.org/{{article.doi}}">DOI</a>
+{% endif %}
 {% if article.pdf_ex %}
   <a href="{{article.pdf_ex}}">Pdf</a>
 {% endif %}
@@ -22,5 +25,8 @@
 {% endif %}
 {% if article.page %}
   <a href="{{article.page}}">Page</a>
+{% endif %}
+{% if article.bib %}
+  <a href="{{SITE_URL}}/documents/{{article.bib}}">BibTeX</a>
 {% endif %}
 </div>

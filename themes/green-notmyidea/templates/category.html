@@ -11,7 +11,11 @@
           {% else %}
             <header>
               <h1 class="entry-title">
+              {% if article.doi %}
+                <a href="https://doi.org/{{article.doi}}">{{ article.title }}</a></h1>
+              {% else %}
                 <a href="{{article.link}}">{{ article.title }}</a></h1>
+              {% endif %}
             </header>
             <div class="entry-content">
               {% include 'article_infos.html' %}
