@@ -2,9 +2,10 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-#AUTHOR = 'Meven Lennon-Bertrand'
+# AUTHOR =
+SITEAUTHOR = "Meven Lennon-Bertrand"
 SITENAME = 'Meven Lennon-Bertrand'
-#SITEURL = 'https://www.meven.ac'
+SITEURL = "http://localhost:8000"
 
 PATH = 'content'
 STATIC_PATHS = ['documents','images']
@@ -44,7 +45,13 @@ TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''
 
 #Theme
-THEME = "themes/green-notmyidea"
+THEME = "themes/pelican-svbhack"
+USER_LOGO_URL = "moi.jpg"
+ROUND_USER_LOGO = True
+MYNAME = "Meven <br> Lennon-Bertrand"
+TAGLINE = "PhD student in Computer Science <br> Inria – Université de Nantes, France"
+EMAIL = "meven.bertrand[at]univ-nantes.fr"
+SOURCE = "https://github.com/MevenBertrand/MevenBertrand.github.io/"
 
 #Internationalization
 
