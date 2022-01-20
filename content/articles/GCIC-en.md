@@ -3,11 +3,12 @@ Slug: GCIC
 Category: Publications
 Publication: true
 Lang: en
-Date: 2021-01-01
-Submitted: true
+Date: 2022-01-01
+Place: TOPLAS
+Accepted: true
 Authors: Meven Lennon-Bertrand, Kenji Maillard, Nicolas Tabareau, Éric Tanter
-Pdf_ex: https://hal.archives-ouvertes.fr/hal-02896776v2/document
-Hal: https://hal.archives-ouvertes.fr/hal-02896776v1
+Pdf_ex: https://hal.archives-ouvertes.fr/hal-02896776v5/document
+Hal: https://hal.archives-ouvertes.fr/hal-02896776v5
 Arxiv: https://arxiv.org/abs/2011.10618
 
 In which we investigate gradual variations on the Calculus of Inductive Construction (CIC).
@@ -23,3 +24,5 @@ which elucidates the interrelation between typing, conversion, and the gradual g
 
 We then use a syntactic model into CIC to inform the design of a safe, confluent reduction, and establish, when applicable, normalization.
 We also study the stronger notion of graduality as embedding-projection pairs formulated by New and Ahmed, using appropriate semantic model constructions.
+
+It has been presented at [POPL '22](talks).
