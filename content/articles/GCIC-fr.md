@@ -5,7 +5,7 @@ Publication: true
 Lang: fr
 Date: 2022-01-01
 Place: TOPLAS
-Accepted: true
+Toappear: true
 Authors: Meven Lennon-Bertrand, Kenji Maillard, Nicolas Tabareau, Éric Tanter
 Pdf_ex: https://hal.archives-ouvertes.fr/hal-02896776v5/document
 Hal: https://hal.archives-ouvertes.fr/hal-02896776v5
