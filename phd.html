@@ -20,7 +20,7 @@
 
   <title>
     Meven Lennon-Bertrand
-&ndash; Complete Bidirectional Typing for the Calculus of Inductive Constructions  </title>
+&ndash; Bidirectional Typing for the Calculus of Inductive Constructions  </title>
 
 </head>
 
@@ -37,8 +37,8 @@
         <li ><a  href="https://www.meven.ac/">About</a></li>
         <li ><a  href="https://www.meven.ac/category/dissemination.html">Dissemination</a></li>
         <li ><a  href="https://www.meven.ac/category/internships.html">Internships</a></li>
-        <li ><a  href="https://www.meven.ac/category/phd-thesis.html">PhD Thesis</a></li>
-        <li ><a  class="active" href="https://www.meven.ac/category/publications.html">Publications</a></li>
+        <li ><a  class="active" href="https://www.meven.ac/category/phd-thesis.html">PhD Thesis</a></li>
+        <li ><a  href="https://www.meven.ac/category/publications.html">Publications</a></li>
         <li ><a  href="https://www.meven.ac/category/talks.html">Talks</a></li>
         <li ><a  href="https://www.meven.ac/category/teaching.html">Teaching</a></li>
       </ul>
@@ -53,20 +53,34 @@
 
 <article>
   <div class="article_title">
-    <h1><a href="https://www.meven.ac/Bidirectional.html">Complete Bidirectional Typing for the Calculus of Inductive Constructions</a></h1>
+    <h1><a href="https://www.meven.ac/phd.html">Bidirectional Typing for the Calculus of Inductive Constructions</a></h1>
   </div>
   <div class="article_meta">
-    <p>Posted on: April 2021</p>
+    <p>Posted on: June 2022</p>
   </div>
   <div class="article_text">
-    <p>In which I presents a bidirectional type system for the Calculus of Inductive Constructions (CIC).</p>
-<!-- The key property of this system is its completeness with respect to the usual undirected one, which has been formally proven in Coq as a part of the MetaCoq project.
-
-Although it plays an important role in the ongoing completeness proof of a realistic typing algorithm in MetaCoq, I argue that the interest of bidirectionality is wider,
-as it gives insights and structure when trying to prove properties on CIC or design variations and extensions. -->
+    <p>Over their more than 50 years of existence, proof assistants have established themselves as
+tools guaranteeing high trust levels in many applications.
+Yet, due to their increasing complexity, the historical solution of relying on a
+small, trusted kernel is not enough anymore to avoid critical bugs while moving forward.
+But proof assistants have been used for decades to certify program correctness,
+so why not <em>their own</em>?
+This is the ambition of the MetaCoq project,
+which aims at providing the first realistic kernel for a proof assistant – Coq –
+to be formally proven correct, in Coq itself.
+Don't trust the program anymore, only its proof!</p>
+<p>This thesis studies the bidirectional structure on which the typing algorithm
+implemented by the kernel of Coq relies, in the context of the Calculus of
+Inductive Constructions on which it is founded. This is formalized as a part of
+MetaCoq, and is a key step to reach the project’s goal,
+by giving an intermediate layer between the implementation and its specification.
+Moreover, the increased control over computation offered by bidirectional typing
+is a necessary piece in designing a gradual extension of CIC, which aims at
+bringing to development in Coq the flexibility of dynamic typing,
+and forms the last part of the thesis.</p>
   </div>
   <div class="article_meta">
-    <p>Category: <a href="https://www.meven.ac/category/publications.html">Publications</a>
+    <p>Category: <a href="https://www.meven.ac/category/phd-thesis.html">PhD Thesis</a>
     </p>
   </div>
 
