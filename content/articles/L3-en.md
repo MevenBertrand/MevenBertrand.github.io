@@ -6,7 +6,8 @@ Date: 2016-07-26
 Start: 2016-06-09
 End: 2016-07-22
 Place: IRIF (Paris 7 University)
-Author: Hugo Herbelin
+Authors: Hugo Herbelin
+With: true
 Pdf_loc: Rapport_L3.pdf
 Slides_loc: Slides_L3.pdf
 

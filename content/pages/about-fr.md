@@ -10,7 +10,7 @@ Doctorant en informatique depuis 2019, encadré par [Nicolas Tabareau](http://ta
 
 Auparavant normalien au [département d’informatique de l’ENS de Lyon](http://www.ens-lyon.fr/DI/), et pendant un an étudiant à la Radboud University Nijmegen, dans le master [Mathematical Foundation of Computer Science](https://www.ru.nl/courseguides/science/master/master-computing-science/specialisation-mfocs-0/).
 
-Je m’intéresse principalement à la manière dont les mathématiques sont ou pourraient être pratiquées. En particulier, je crois fermement que les assistants de preuves ont quelque chose à apporter à ces problématiques, et je suis particulièrement enthousiasmé par l’approche de la logique par la théorie des types. Je travaille actuellement dans l’univers de l’assistant de preuve Coq et du Calcul des Constructions Inductives.
+Je m’intéresse aux assistants à la preuve, principalement ceux basés sur la théorie des types. Je suis également amateur de typage bidirectionnel, en particulier comme outil pour comprendre et spécifier les implémentations des assistants à la preuve. Dans ce but, je participe au projet [MetaCoq](https://metacoq.github.io).
 
 ## Contact
 

@@ -3,14 +3,14 @@ Slug: about
 Lang: en
 Author: Meven Lennon-Bertrand
 Url:
-Date: 2022-01-20
+Date: 2022-06-10
 Save_as: index.html
 
 PhD student in computer science since 2019, under the supervision of [Nicolas Tabareau](http://tabareau.fr), in the Inria/University of Nantes [Gallinette team](http://gallinette.inria.fr/).
 
 Before that, student in the [computer science department of the ENS de Lyon](http://www.ens-lyon.fr/DI/), and for a year in the [Mathematical Foundation of Computer Science master](https://www.ru.nl/courseguides/science/master/master-computing-science/specialisation-mfocs-0/) of the Radboud University Nijmegen.
 
-My main interest is how mathematics are or could be done. In particular, I strongly believe that proof assistants have something to bring to these questions, and I am particularly fond of the type theoretic approach to logics. I currently work in the world of the Coq proof assistant and of the Calculus of Inductive Constructions.
+My main interest lies in proofs assistants, particularly those based on type theory. I am also fond of bidirectional typing, especially as a tool to understand and specify real-world implementations of proof assistants. To this aim, I participate to the [MetaCoq](https://metacoq.github.io/) project.
 
 ## Contact
 

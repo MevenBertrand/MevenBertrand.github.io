@@ -15,7 +15,7 @@ Bib: ITP21.bib
 
 In which I presents a bidirectional type system for the Calculus of Inductive Constructions (CIC).
 
-The key property of this system is its completeness with respect to the usual undirected one, which has been formally proven in Coq as a part of the MetaCoq project.
+<!-- The key property of this system is its completeness with respect to the usual undirected one, which has been formally proven in Coq as a part of the MetaCoq project.
 
 Although it plays an important role in the ongoing completeness proof of a realistic typing algorithm in MetaCoq, I argue that the interest of bidirectionality is wider,
-as it gives insights and structure when trying to prove properties on CIC or design variations and extensions.
+as it gives insights and structure when trying to prove properties on CIC or design variations and extensions. -->

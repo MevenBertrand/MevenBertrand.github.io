@@ -71,6 +71,8 @@ author_webpage = {
              "Jurriaan Rot": "http://jurriaan.me/",
              "Meven Lennon-Bertrand": '',
              "Kenji Maillard": "https://kenji.maillard.blue/",
+             "Matthieu Sozeau": "https://sozeau.gitlabpages.inria.fr/www/",
+             "Yannick Forster": "https://yforster.github.io/"
              }
 
 def lookup_author_webpage(author):
