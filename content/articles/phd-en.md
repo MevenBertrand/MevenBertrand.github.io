@@ -5,6 +5,14 @@ Lang: en
 Date: 2022-06-24
 Pdf_loc: 22-phd.pdf
 
+## Defence
+
+The defence will take place on Friday, June 24th 2022, at 14pm (CEST) in amphi Pasteur of the University of Nantes (building 2 on the Science Campus).
+It will also broadcasted online, at the following link: [https://univ-nantes-fr.zoom.us/j/87099237470](https://univ-nantes-fr.zoom.us/j/87099237470).
+The talk will be mostly in English, with a short introduction in French.
+
+## Abstract
+
 Over their more than 50 years of existence, proof assistants have established themselves as
 tools guaranteeing high trust levels in many applications.
 Yet, due to their increasing complexity, the historical solution of relying on a
@@ -26,3 +34,25 @@ is a necessary piece in designing a gradual extension of CIC, which aims at
 bringing to development in Coq the flexibility of dynamic typing,
 and forms the last part of the thesis.
 
+## Jury
+
+**Director:**
+
+- Nicolas Tabareau *(Directeur de Recherche, Inria Rennes)*
+
+**Rapporteurs:**
+
+- Neel Krishnaswami *(Associate Professor, University of Cambridge)*
+- Conor McBride *(Reader, University of Strathclyde)*
+
+**Examiners:**
+
+- Jesper Cockx *(Assistant Professor, TU Delft)*
+- Herman Geuvers *(Professor, Radboud University Nijmegen)*
+- Hugo Herbelin *(Directeur de Recherche, Inria Paris)*
+- Assia Mahboubi *(Directrice de Recherche, Inria Rennes)*
+- Christine Paulin-Mohring *(Professeure des Universités, Université Paris Sud)*
+
+**Invited member:**
+
+- Matthieu Sozeau *(Chargé de Recherche, Inria Rennes)*
