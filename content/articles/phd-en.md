@@ -8,7 +8,7 @@ Pdf_loc: 22-phd.pdf
 ## Defence
 
 The defence will take place on Friday, June 24th 2022, at 14pm (CEST) in amphi Pasteur of the University of Nantes (building 2 on the Science Campus).
-It will also broadcasted online, at the following link: [https://univ-nantes-fr.zoom.us/j/87099237470](https://univ-nantes-fr.zoom.us/j/87099237470).
+It will also broadcasted online, at the following link: [https://mediaserver.univ-nantes.fr/lives/live-amphi-pasteur/](https://mediaserver.univ-nantes.fr/lives/live-amphi-pasteur/).
 The talk will be mostly in English, with a short introduction in French.
 
 ## Abstract
