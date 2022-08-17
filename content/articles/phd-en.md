@@ -4,6 +4,7 @@ Category: PhD Thesis
 Lang: en
 Date: 2022-06-24
 Pdf_loc: 22-phd.pdf
+Github: https://github.com/MevenBertrand/PhD-Thesis
 
 ## Defence
 

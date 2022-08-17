@@ -4,6 +4,7 @@ Category: Thèse
 Lang: fr
 Date: 2022-06-24
 Pdf_loc: 22-phd.pdf
+Github: https://github.com/MevenBertrand/PhD-Thesis
 
 Durant leurs plus de 50 ans d'existence, les assistants à la preuve
 se sont établis comme des outils permettant un haut niveau
