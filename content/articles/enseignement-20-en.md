@@ -10,4 +10,4 @@ End: 2021-06-01
 
 - **Informatique pour BGC:** Same as 2019-2020.
 
-- **Informatique Fondamentale 2:** Theoretical computer science for third year computer science students. TA for exercise sessions.
+- **Informatique fondamentale 2:** Theoretical computer science for third year computer science students. TA for exercise sessions.

@@ -13,7 +13,7 @@ Hal: https://hal.archives-ouvertes.fr/hal-03139924
 Arxiv: https://arxiv.org/abs/2102.06513
 Bib: ITP21.bib
 
-In which I presents a bidirectional type system for the Calculus of Inductive Constructions (CIC).
+In which I presents a bidirectional type system for the Calculus of Inductive Constructions.
 
 <!-- The key property of this system is its completeness with respect to the usual undirected one, which has been formally proven in Coq as a part of the MetaCoq project.
 

@@ -3,7 +3,7 @@ Slug: about
 Lang: en
 Author: Meven Lennon-Bertrand
 Url:
-Date: 2022-06-10
+Date: 2022-10-01
 Save_as: index.html
 
 PhD student in computer science since 2019, under the supervision of [Nicolas Tabareau](http://tabareau.fr), in the Inria/University of Nantes [Gallinette team](http://gallinette.inria.fr/).

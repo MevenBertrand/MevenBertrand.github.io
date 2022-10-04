@@ -6,9 +6,9 @@ Date: 2022-06-24
 Pdf_loc: 22-phd.pdf
 Github: https://github.com/MevenBertrand/PhD-Thesis
 
-## Defence
+## Defense
 
-The defence will take place on Friday, June 24th 2022, at 14pm (CEST) in amphi Pasteur of the University of Nantes (building 2 on the Science Campus).
+The defense will take place on Friday, June 24th 2022, at 14pm (CEST) in amphi Pasteur of the University of Nantes (building 2 on the Science Campus).
 It will also broadcasted online, at the following link: [https://mediaserver.univ-nantes.fr/lives/live-amphi-pasteur/](https://mediaserver.univ-nantes.fr/lives/live-amphi-pasteur/).
 The talk will be mostly in English, with a short introduction in French.
 

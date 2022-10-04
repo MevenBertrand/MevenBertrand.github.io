@@ -1,6 +1,6 @@
 Title: The Curious Case of Case – Correct & Efficient Representation of Case Analysis in Coq and MetaCoq
 Slug: 22-wits-case
-Category: Talks
+Category: Exposés
 Lang: fr
 Date: 2022-01-22
 Place: WITS

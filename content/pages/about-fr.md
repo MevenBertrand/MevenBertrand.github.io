@@ -3,7 +3,7 @@ Slug: about
 Lang: fr
 Author: Meven Lennon-Bertrand
 Url: 
-Date: 2022-01-20
+Date: 2022-10-01
 Save_as: index.html
 
 Doctorant en informatique depuis 2019, encadré par [Nicolas Tabareau](http://tabareau.fr), au sein de l’équipe Inria [Gallinette](http://gallinette.inria.fr/) et de l’Université de Nantes.

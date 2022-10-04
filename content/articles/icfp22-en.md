@@ -1,19 +1,19 @@
-Title: Gradualizing the Calculus of Inductive Constructions
-Slug: GCIC
+Title: A Reasonably Gradual Type Theory
+Slug: GRIP
 Category: Publications
 Publication: true
 Lang: en
-Date: 2022-01-01
-Place: TOPLAS
+Date: 2022-08-31
+Place: ICFP
 Accepted: true
-Authors: Meven Lennon-Bertrand, Kenji Maillard, Nicolas Tabareau, Éric Tanter
-DOI: 10.1145/3495528
-Pdf_ex: https://dl.acm.org/doi/pdf/10.1145/3495528
-Hal: https://hal.archives-ouvertes.fr/hal-02896776v5
-Arxiv: https://arxiv.org/abs/2011.10618
-Bib: 22-TOPLAS.bib
+Authors: Kenji Maillard, Meven Lennon-Bertrand, Nicolas Tabareau, Éric Tanter
+DOI: 10.1145/3547655
+Pdf_ex: https://dl.acm.org/doi/pdf/10.1145/3547655
+Hal: https://hal.archives-ouvertes.fr/hal-03596652
+Bib: 22-ICFP.bib
 
-In which we investigate gradual variations on the Calculus of Inductive Construction. Presented at [POPL '22](talks).
+In which we extend our Gradual Calculus of Inductive Constructions to internalize precision and allow for sound reasoning over
+gradual programs.
 
 <!-- We observe, a tradeoff between graduality
 and the key properties of normalization and closure of universes under dependent product that CIC enjoys.
