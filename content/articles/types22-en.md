@@ -3,7 +3,7 @@ Slug: types-22
 Category: Talks
 Lang: en
 Date: 2022-06-22
-Place: Types Conference
+Place: TYPES
 Authors: Meven Lennon-Bertrand
 Presenter: Meven Lennon-Bertrand
 Slides_loc: 22-Types.pdf

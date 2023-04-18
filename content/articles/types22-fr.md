@@ -3,7 +3,7 @@ Slug: types-22
 Category: Exposés
 Lang: fr
 Date: 2022-06-22
-Place: Types
+Place: TYPES
 Authors: Meven Lennon-Bertrand
 Presenter: Meven Lennon-Bertrand
 Slides_loc: 22-Types.pdf
