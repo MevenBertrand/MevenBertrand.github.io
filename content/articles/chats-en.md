@@ -2,7 +2,6 @@ Title:  Arts, Technologies and Sciences Projects
 Slug: chats
 Category: Dissemination
 Lang: en
-Ongoing: true
 Start: 2019-09-01
 End: 2022-06-20
 Date: 2022-06-20

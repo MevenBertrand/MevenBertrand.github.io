@@ -9,11 +9,11 @@ Save_as: index.html
 Post-doctorant en informatique, dans le groupe [CLASH](https://www.cl.cam.ac.uk/research/clash/), au sein du Computer Lab de l'Université de Cambridge.
 
 Auparavant doctorant au sein de l’équipe Inria [Gallinette](http://gallinette.inria.fr/) et de l’Université de Nantes, encadré par [Nicolas Tabareau](http://tabareau.fr).
-Ancien élève au [département d’informatique de l’ENS de Lyon](http://www.ens-lyon.fr/DI/), et pendant un an à la Radboud University Nijmegen, dans le master [Mathematical Foundation of Computer Science](https://www.ru.nl/courseguides/science/master/master-computing-science/specialisation-mfocs-0/).
+Ancien élève du [département d’informatique de l’ENS de Lyon](http://www.ens-lyon.fr/DI/).
 
-Je travaille principalement autour des assistants à la preuve, notamment ceux basés sur la théorie des types, et particulièrement [Coq](https://coq.inria.fr/).
-Je suis également intéressé par la théorie des types de manière générale, et entre autres par le typage bidirectionnel.
-Je cherche notamment à réduire l'écart qui sépare les implémentations complexes des assistants à la preuve à leurs spécifications théoriques, principalement dans le cadre du projet [MetaCoq](https://metacoq.github.io).
+Je m'intéresse principalement à la théorie des types et aux assistants à la preuve, et particulièrement [Coq](https://coq.inria.fr/).
+J'apprécie également tout ce qui touche au typage bidirectionnel.
+Je cherche notamment à contribuer à réduire l'écart qui sépare les implémentations complexes des assistants à la preuve à leurs spécifications théoriques, notamment dans le cadre du projet [MetaCoq](https://metacoq.github.io).
 
 ## Contact
 

@@ -2,7 +2,6 @@ Title:  CHantier Arts, Technologies et Sciences
 Slug: chats
 Category: Diffusion
 Lang: fr
-Ongoing: true
 Start: 2019-09-01
 End: 2022-06-20
 Date: 2022-06-20

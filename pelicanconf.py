@@ -72,7 +72,14 @@ author_webpage = {
              "Meven Lennon-Bertrand": '',
              "Kenji Maillard": "https://kenji.maillard.blue/",
              "Matthieu Sozeau": "https://sozeau.gitlabpages.inria.fr/www/",
-             "Yannick Forster": "https://yforster.github.io/"
+             "Yannick Forster": "https://yforster.github.io/",
+             "The MetaCoq Team": "https://metacoq.github.io/",
+             "Pierre-Marie Pédrot": "https://www.pédrot.fr/",
+             "Arthur Adjedj": "https://github.com/arthur-adjedj",
+             "Loïc Pujet": "pujet.fr",
+             "Jakob Botch Nielsen": "https://jakobbotsch.com/",
+             "Théo Winterhalter": "https://theowinterhalter.github.io/",
+             "Neel Krishnaswami": "https://www.cl.cam.ac.uk/~nk480/"
              }
 
 def lookup_author_webpage(author):
