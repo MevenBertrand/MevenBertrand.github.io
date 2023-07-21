@@ -1,6 +1,6 @@
 Title: Gradualizing the Calculus of Inductive Constructions
 Slug: GCIC
-Category: Publications
+Category: Articles
 Publication: true
 Lang: fr
 Date: 2022-01-01

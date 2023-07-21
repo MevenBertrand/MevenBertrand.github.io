@@ -79,14 +79,15 @@ author_webpage = {
              "Loïc Pujet": "pujet.fr",
              "Jakob Botch Nielsen": "https://jakobbotsch.com/",
              "Théo Winterhalter": "https://theowinterhalter.github.io/",
-             "Neel Krishnaswami": "https://www.cl.cam.ac.uk/~nk480/"
+             "Neel Krishnaswami": "https://www.cl.cam.ac.uk/~nk480/",
+             "Théo Laurent": "https://www.theolaurent.fr/",
              }
 
 def lookup_author_webpage(author):
   return author_webpage[author.name]
 
 #def is_publication(article):
-#  return(article.category == "Publications")
+#  return(article.category == "Articles")
 
 JINJA_FILTERS = {
              'lookup_author_webpage': lookup_author_webpage,

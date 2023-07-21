@@ -1,6 +1,6 @@
 Title: A Reasonably Gradual Type Theory
 Slug: GRIP
-Category: Publications
+Category: Articles
 Publication: true
 Lang: en
 Date: 2022-08-31
