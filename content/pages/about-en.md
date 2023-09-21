@@ -9,7 +9,7 @@ Save_as: index.html
 Post-doctoral researcher in computer science, in the [CLASH](https://www.cl.cam.ac.uk/research/clash/) group at the University of Cambrige.
 
 Before that, PhD candidate at Inria/University of Nantes in the [Gallinette team](http://gallinette.inria.fr/), under the supervision of [Nicolas Tabareau](http://tabareau.fr).
-Even before that, studied at [computer science department of the ENS de Lyon](http://www.ens-lyon.fr/DI/).
+Even before that, studied computer science and mathematics at the [ENS de Lyon](http://www.ens-lyon.fr/DI/).
 
 My main interests are type theory and proofs assistants, in particular [Coq](https://coq.inria.fr/).
 I am also quite fond of everything revolving around bidirectional typing.

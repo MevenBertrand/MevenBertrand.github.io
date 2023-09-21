@@ -8,7 +8,7 @@ End: 2017-07-28
 Place: Radboud University Nijmegen
 Authors: Jurriaan Rot
 With: true
-Link: https://arxiv.org/abs/1804.02546
+Arxiv: https://arxiv.org/abs/1804.02546
 Pdf_ex: https://arxiv.org/pdf/1804.02546.pdf
 Slides_loc: Slides_M1.pdf
 

@@ -81,6 +81,7 @@ author_webpage = {
              "Théo Winterhalter": "https://theowinterhalter.github.io/",
              "Neel Krishnaswami": "https://www.cl.cam.ac.uk/~nk480/",
              "Théo Laurent": "https://www.theolaurent.fr/",
+             "Arthur Adjedj": "https://github.com/arthur-adjedj"
              }
 
 def lookup_author_webpage(author):

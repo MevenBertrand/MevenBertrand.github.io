@@ -4,7 +4,7 @@ Category: Formalizations
 Lang: en
 Ongoing: true
 Date: 2023-01
-Authors: Arthur Adjedj, Meven Lennon-Bertrand, Kenji Maillard, Loïc Pujet
+Authors: Arthur Adjedj, Yannick Forster, Meven Lennon-Bertrand, Kenji Maillard, Pierre-Marie Pédrot, Loïc Pujet
 GitHub: https://github.com/CoqHott/logrel-coq
 
 A project to show decidability of type-checking for a dependently-typed language, featuring all representative features of Martin-Löf Type Theory. Logical relation setup heavily inspired by [a previous similar project in Agda](https://github.com/mr-ohman/logrel-mltt/).
