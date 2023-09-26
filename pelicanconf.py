@@ -49,8 +49,8 @@ THEME = "themes/pelican-svbhack"
 USER_LOGO_URL = "moi.jpg"
 ROUND_USER_LOGO = True
 MYNAME = "Meven <br> Lennon-Bertrand"
-TAGLINE = "PhD student in Computer Science <br> Inria – Université de Nantes, France"
-EMAIL = "meven.bertrand[at]univ-nantes.fr"
+TAGLINE = "Postdoc in Computer Science <br> University of Cambridge"
+EMAIL = "Meven.Lennon-Bertrand[at]cl.cam.ac.uk"
 SOURCE = "https://github.com/MevenBertrand/MevenBertrand.github.io/"
 
 #Internationalization

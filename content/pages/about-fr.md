@@ -17,7 +17,7 @@ Je cherche notamment à contribuer à réduire l'écart qui sépare les impléme
 
 ## Contact
 
-Le mieux pour me joindre est de le faire par mail, à *mgapb2\[at\]cam.ac.uk*.
+Le mieux pour me joindre est de le faire par mail, à *Meven.Lennon-Bertrand\[at\]cam.ac.uk*.
 
 ## CV
 
