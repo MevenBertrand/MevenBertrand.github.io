@@ -18,7 +18,7 @@ and their theoretic specifications, in particular in the framework of the [MetaC
 
 ## Contact
 
-The best way to reach me is by email, at *Meven.Lennon-Bertrand\[at\]cam.ac.uk*.
+The best way to reach me is by email, at *Meven.Lennon-Bertrand\[at\]cl.cam.ac.uk*.
 
 Otherwise, I might be found at the Computer Lab's *William Gates Building*.
 
