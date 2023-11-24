@@ -20,7 +20,7 @@ and their theoretic specifications, in particular in the framework of the [MetaC
 
 The best way to reach me is by email, at *Meven.Lennon-Bertrand\[at\]cl.cam.ac.uk*.
 
-Otherwise, I might be found at the Computer Lab's *William Gates Building*.
+Otherwise, I might be found at the Computer Lab's *William Gates Building*, office FS18.
 
 ## CV
 
