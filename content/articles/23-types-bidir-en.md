@@ -6,4 +6,5 @@ Date: 2023-06-12
 Place: TYPES
 Authors: Neel Krishnaswami, Meven Lennon-Bertrand
 Presenter: Meven Lennon-Bertrand
-Abstract: 23-06-Types-Bidir.pdf
+Abstract: 23-06-Types-Bidir_Abstract.pdf
+Slides_loc: 23-06-Types-Bidir_Slides.pdf
