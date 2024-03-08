@@ -3,7 +3,7 @@ Slug: about
 Lang: fr
 Author: Meven Lennon-Bertrand
 Url:
-Date: 2023-10-24
+Date: 2024-01-22
 Save_as: index.html
 
 Post-doctorant en informatique, dans le groupe [CLASH](https://www.cl.cam.ac.uk/research/clash/), au sein du Computer Lab de l'Université de Cambridge.
