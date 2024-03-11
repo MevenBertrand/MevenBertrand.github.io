@@ -6,6 +6,7 @@ Lang: fr
 Date: 2024-01-15
 Place: CPP
 Accepted: true
+Distinguished: true
 Authors: Arthur Adjedj, Meven Lennon-Bertrand, Kenji Maillard, Pierre-Marie Pédrot, Loïc Pujet
 DOI: 10.1145/3636501.3636951
 Arxiv: https://arxiv.org/abs/2310.06376

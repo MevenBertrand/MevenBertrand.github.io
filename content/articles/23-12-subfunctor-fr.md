@@ -7,3 +7,5 @@ Place: Formath Seminar
 Authors: Théo Laurent, Meven Lennon-Bertrand, Kenji Maillard
 Presenter: Meven Lennon-Bertrand
 Slides_loc: Subtyping_LogRel.pdf
+
+J'ai donné un exposé similaire à [SPLS](https://scottish-pl-institute.github.io/spls/meetings/2024/march/) en mars 2024.

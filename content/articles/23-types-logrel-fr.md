@@ -1,4 +1,4 @@
-Title: Ingeneering Logical Relations for MLTT in Coq
+Title: Engineering Logical Relations for MLTT in Coq
 Slug: types-23-logrel
 Category: Talks
 Lang: fr
