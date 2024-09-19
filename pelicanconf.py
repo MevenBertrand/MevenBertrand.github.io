@@ -33,7 +33,12 @@ AUTHOR_FEED_RSS = None
 #LINKS = (('Pelican', 'http://getpelican.com/'),)
 
 # Social widget
-#SOCIAL = (('GitHub', 'https://github.com/MevenBertrand'),)
+SOCIAL = (
+  ('github', 'https://github.com/MevenBertrand'),
+  ('mastodon','https://lipn.info/@mevenlennonbertrand'),
+  ('stack-exchange','https://proofassistants.stackexchange.com/users/367/meven-lennon-bertrand'),
+  ('orcid','https://orcid.org/0000-0002-7079-8826')
+)
 
 DEFAULT_PAGINATION = False
 
@@ -69,7 +74,7 @@ author_webpage = {
              "Éric Tanter": "https://pleiad.cl/people/etanter",
              "Hugo Herbelin": "http://pauillac.inria.fr/~herbelin/",
              "Jurriaan Rot": "http://jurriaan.me/",
-             "Meven Lennon-Bertrand": '',
+             "Meven Lennon-Bertrand": 'https://www.meven.ac',
              "Kenji Maillard": "https://kenji.maillard.blue/",
              "Matthieu Sozeau": "https://sozeau.gitlabpages.inria.fr/www/",
              "Yannick Forster": "https://yforster.github.io/",
