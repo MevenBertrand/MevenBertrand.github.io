@@ -1,10 +1,10 @@
 Title: Martin-Löf <em>à la</em> Coq
 Slug: mltt-a-la-coq
-Category: Articles
+Category: Publications
 Publication: true
 Lang: en
 Date: 2024-01-15
-Place: CPP
+Place: Certified Programs and Proofs
 Accepted: true
 Distinguished: true
 Authors: Arthur Adjedj, Meven Lennon-Bertrand, Kenji Maillard, Pierre-Marie Pédrot, Loïc Pujet

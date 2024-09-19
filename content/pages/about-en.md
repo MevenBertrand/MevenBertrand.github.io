@@ -3,7 +3,7 @@ Slug: about
 Lang: en
 Author: Meven Lennon-Bertrand
 Url:
-Date: 2024-03-11
+Date: 2024-09-19
 Save_as: index.html
 
 Post-doctoral researcher in computer science, in the [CLASH](https://www.cl.cam.ac.uk/research/clash/) group at the University of Cambrige.
@@ -15,6 +15,11 @@ My main interests are type theory and proofs assistants, in particular [Coq](htt
 I am also quite fond of everything revolving around bidirectional typing.
 One of the things I try and work towards is bridging the gap between complex, real-life implementations of proof assistants
 and their theoretic specifications, in particular in the framework of the [MetaCoq](https://metacoq.github.io/) project.
+
+## News
+
+- 2024/10 – I will be lecturing two courses this year, [Denotational Semantics](https://www.cl.cam.ac.uk/teaching/2425/DenotSem/) and [Proof Assistants](https://www.cl.cam.ac.uk/teaching/2425/L81/).
+- 2024/09 – A [new version](https://inria.hal.science/hal-04077552) of our MetaCoq paper is out.
 
 ## Contact
 

@@ -1,10 +1,10 @@
 Title: Gradualizing the Calculus of Inductive Constructions
 Slug: GCIC
-Category: Articles
+Category: Publications
 Publication: true
 Lang: fr
 Date: 2022-01-01
-Place: TOPLAS
+Place: Transactions on Programming Languages and Systems
 Accepted: true
 Authors: Meven Lennon-Bertrand, Kenji Maillard, Nicolas Tabareau, Éric Tanter
 DOI: 10.1145/3495528

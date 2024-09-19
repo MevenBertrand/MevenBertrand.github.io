@@ -1,9 +1,9 @@
 Title: Definitional Functoriality for Dependent (Sub)Types
 Slug: map-subtyping-paper
-Category: Articles
+Category: Publications
 Publication: true
 Accepted: true
-Place: ESOP
+Place: European Symposium on Programming
 Lang: fr
 Date: 2024-04-09
 Authors: Théo Laurent, Meven Lennon-Bertrand, Kenji Maillard

@@ -1,10 +1,10 @@
 Title: A Reasonably Gradual Type Theory
 Slug: GRIP
-Category: Articles
+Category: Publications
 Publication: true
 Lang: fr
 Date: 2022-08-31
-Place: ICFP
+Place: International Conference on Functional Programming
 Accepted: true
 Authors: Kenji Maillard, Meven Lennon-Bertrand, Nicolas Tabareau, Éric Tanter
 DOI: 10.1145/3547655
