@@ -17,8 +17,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   font-size: 1.3em ;
   line-height: 1.1;
-  margin-bottom: .4em;
-  margin-top: .4em;
+  margin-bottom: 1em;
+  margin-top: 1em;
 }
 
 h1 {
@@ -27,6 +27,11 @@ h1 {
 
 h1, h2 {
   font-variant: small-caps;
+}
+
+h2.entry-title {
+  margin-bottom: .4em;
+  margin-top: .4em;
 }
 
 a {
@@ -58,16 +63,15 @@ aside div#user_meta p {
   margin: 0 0 15px 0;
   font-size: .8rem;
 }
-aside div#user_meta ul, .article-links a {
-  margin: 40px 0 0 0;
+nav ul, .article-links a {
+  margin: 20px 0 0 0;
   padding-left: 0;
   list-style-type: none;
 }
-aside div#user_meta ul li, .article-links a {
-  display: inline;
+nav ul li, .article-links a {
   line-height: 2.5em;
 }
-aside div#user_meta ul li a, .article-links a {
+nav ul li a, .article-links a {
   color: #fff;
 	margin-bottom: 10px;
 	margin-top: 0;
@@ -86,7 +90,7 @@ aside div#user_meta ul li a, .article-links a {
   color: #999999; */
 }
 
-aside div#user_meta a.active, .article-links a {
+nav a.active, .article-links a {
   background-color: #3d9b07;
 }
 
@@ -220,9 +224,7 @@ main div#ending_message {
     max-width: 230px;
     text-align: right;
   }
-  aside div#user_meta ul li {
-    display: block;
-  }
+  
   main {
     width: 75%;
     position: absolute;
@@ -241,4 +243,45 @@ main div#ending_message {
   main div#ending_message {
     border-bottom: 0;
   }
+}
+
+/* For social stuff */
+
+ul.social {
+  font-size: 1.6em;
+  padding-top: 10px;
+
+  li {
+    display: inline-block;
+    margin-left: 10px;
+  }
+
+  a:hover {
+    z-index: 2;
+    -webkit-transform: translateY(-2px);
+    transform: translateY(-2px);
+  }
+
+  a {
+    display: inline-block;
+  }
+
+  a img {
+    height:1.4em ;
+    width:auto;
+    vertical-align: text-bottom;
+  }
+
+  a.sc-github, a.sc-github-alt {
+    color: #111010;
+  }
+
+  a.sc-mastodon {
+    color:#6263fe;
+  }
+
+  a.sc-orcid {
+    color: #a6ce39;
+  }
+
 }
