@@ -40,6 +40,10 @@ SOCIAL = (
   ('orcid','https://orcid.org/0000-0002-7079-8826')
 )
 
+ACADEMIA = (
+  ('zenodo','https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Lennon-Bertrand%2C%20Meven%22&l=list&p=1&s=10&sort=bestmatch'),
+)
+
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
