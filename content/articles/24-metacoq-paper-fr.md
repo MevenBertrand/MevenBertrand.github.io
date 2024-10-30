@@ -9,5 +9,3 @@ Date: 2023-04-21
 Authors: Matthieu Sozeau, Yannick Forster, Meven Lennon-Bertrand, Jakob Botch Nielsen, Nicolas Tabareau, Théo Winterhalter
 Pdf_ex: https://inria.hal.science/hal-04077552/file/main.pdf
 Hal: https://inria.hal.science/hal-04077552
-
-In which we report on the MetaCoq project, up to its 1.2 version.

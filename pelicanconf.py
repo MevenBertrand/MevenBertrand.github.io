@@ -85,12 +85,13 @@ author_webpage = {
              "The MetaCoq Team": "https://metacoq.github.io/#team--credits",
              "Pierre-Marie Pédrot": "https://www.pédrot.fr/",
              "Arthur Adjedj": "https://github.com/arthur-adjedj",
-             "Loïc Pujet": "pujet.fr",
+             "Loïc Pujet": "https://pujet.fr",
              "Jakob Botch Nielsen": "https://jakobbotsch.com/",
              "Théo Winterhalter": "https://theowinterhalter.github.io/",
              "Neel Krishnaswami": "https://www.cl.cam.ac.uk/~nk480/",
              "Théo Laurent": "https://www.theolaurent.fr/",
-             "Arthur Adjedj": "https://github.com/arthur-adjedj"
+             "Arthur Adjedj": "https://github.com/arthur-adjedj",
+             "Matthew Sirman": "https://github.com/matthew-sirman",
              }
 
 def lookup_author_webpage(author):

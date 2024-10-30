@@ -1,4 +1,4 @@
-Title:  Mathematical Recreation Seminar
+Title: Mathematical Recreation Seminar
 Slug: mmi
 Category: Dissemination
 Lang: en
