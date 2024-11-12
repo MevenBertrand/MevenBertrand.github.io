@@ -30,3 +30,9 @@ Otherwise, I might be found at the Computer Lab's *William Gates Building*, offi
 ## CV
 
 Here is a [print CV]({static}/documents/CV-en.pdf), most information can also be found directly by browsing this website.
+
+<a href="https://tcs4f.org" style="display: inline-block;
+	background-color: #ba151b; border: 2px solid #CCCCCC;
+	padding: 5px; margin: 10px; border-radius: 5px;">
+	<img width="200" src="https://tcs4f.org/themes/tcs4f/img/logo_TCS4F_initiative_white_long.svg" alt="Theoretical Computer Scientists for Future">
+</a>

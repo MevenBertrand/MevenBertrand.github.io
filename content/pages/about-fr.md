@@ -22,3 +22,9 @@ Le mieux pour me joindre est de le faire par mail, à *Meven.Lennon-Bertrand\[at
 ## CV
 
 Voici mon [CV]({static}/documents/CV-fr.pdf), la majorité des informations sont également disponibles directement sur ce site.
+
+<a href="https://tcs4f.org" style="display: inline-block;
+	background-color: #ba151b; border: 2px solid #CCCCCC;
+	padding: 5px; margin: 10px; border-radius: 5px;">
+	<img width="200" src="https://tcs4f.org/themes/tcs4f/img/logo_TCS4F_initiative_white_long.svg" alt="Theoretical Computer Scientists for Future">
+</a>
