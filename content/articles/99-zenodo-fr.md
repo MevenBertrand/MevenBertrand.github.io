@@ -1,6 +1,6 @@
 Title: Zenodo
 Slug: zenodo
-Category: Formalizations
+Category: Formalisations
 Lang: fr
 Date: 2099
 Nodate: true

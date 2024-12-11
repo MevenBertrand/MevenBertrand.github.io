@@ -1,6 +1,6 @@
 Title: MetaCoq
 Slug: metacoq
-Category: Formalizations
+Category: Formalisations
 Lang: en
 Ongoing: true
 Date: 2020-01

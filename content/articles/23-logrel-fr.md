@@ -1,6 +1,6 @@
 Title: LogRel Coq
 Slug: logrel-coq
-Category: Formalizations
+Category: Formalisations
 Lang: fr
 Ongoing: true
 Date: 2023-01
