@@ -15,7 +15,7 @@ PATH = 'content'
 STATIC_PATHS = ['documents','images']
 
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ['i18n_subsites', 'pin_to_top', 'dateish','add_cname']
+PLUGINS = ['i18n_subsites', 'pin_to_top', 'dateish','add_cname','category-custom-order']
 JINJA_ENVIRONMENT = {
   'extensions': ['jinja2.ext.i18n']
 }
@@ -65,6 +65,18 @@ MYNAME = "Meven <br> Lennon-Bertrand"
 TAGLINE = "Postdoc in Computer Science <br> University of Cambridge"
 EMAIL = "Meven.Lennon-Bertrand[at]cl.cam.ac.uk"
 SOURCE = "https://github.com/MevenBertrand/MevenBertrand.github.io/"
+
+#Category order
+
+CATEGORIES_CUSTOM_ORDER = [
+    'About',
+    'Publications',
+    'Talks',
+    'Formalisations',
+    'Teaching',
+    'Dissemination',
+    'PhD Thesis',
+]
 
 #Internationalization
 
