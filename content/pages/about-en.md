@@ -3,7 +3,7 @@ Slug: about
 Lang: en
 Author: Meven Lennon-Bertrand
 Url:
-Date: 2024-09-19
+Date: 2024-12-11
 Save_as: index.html
 
 Post-doctoral researcher in computer science, in the [CLASH](https://www.cl.cam.ac.uk/research/clash/) group at the University of Cambrige.

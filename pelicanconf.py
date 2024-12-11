@@ -2,6 +2,10 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+# Remove output directory on re-generation
+
+DELETE_OUTPUT_DIRECTORY = False
+
 # AUTHOR =
 SITEAUTHOR = "Meven Lennon-Bertrand"
 SITENAME = 'Meven Lennon-Bertrand'
