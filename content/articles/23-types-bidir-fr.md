@@ -1,6 +1,6 @@
 Title: Decidable Type-Checking for Bidirectional Martin-Löf Type Theory
 Slug: types-23-bidir
-Category: Talks
+Category: Exposés
 Lang: fr
 Date: 2023-06-12
 Place: TYPES

@@ -1,6 +1,6 @@
 Title: Tutoriel MetaCoq
 Slug: metacoq-tuto
-Category: Talks
+Category: Exposés
 Lang: fr
 Date: 2024-01-14
 Place: Tutorials @ POPL

@@ -1,6 +1,6 @@
 Title: Definitional Functoriality for Dependent (Sub)Types 
 Slug: subfunctor-23
-Category: Talks
+Category: Exposés
 Lang: fr
 Date: 2023-12-01
 Place: Formath Seminar

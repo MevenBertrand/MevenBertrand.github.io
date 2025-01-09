@@ -1,6 +1,6 @@
 Title: University of Cambridge – Cours Magistral
 Slug: teaching-cam
-Category: Teaching
+Category: Enseignement
 Lang: fr
 Date: 2023-09-01
 Start: 2023-09-01

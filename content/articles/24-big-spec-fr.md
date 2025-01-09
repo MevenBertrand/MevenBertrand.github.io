@@ -1,6 +1,6 @@
 Title: Verified Meta-Theory at Scale for a Certified Proof Assistant
 Slug: 24-bigspec
-Category: Talks
+Category: Exposés
 Lang: fr
 Date: 2024-10-17
 Place: Newton Institute – Big Specification Workshop

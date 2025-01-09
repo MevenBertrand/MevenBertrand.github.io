@@ -1,6 +1,6 @@
 Title: A tour in (formalised) type theory
 Slug: 24-form-seminar
-Category: Talks
+Category: Exposés
 Lang: fr
 Date: 2024-11-07
 Place: Formalisation of mathematics with ITPs seminar – Cambridge, Mathematics Department

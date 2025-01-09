@@ -1,6 +1,6 @@
 Title: Implementing Observational Equality Using Normalisation by Evaluation
 Slug: 24-types
-Category: Talks
+Category: Exposés
 Lang: fr
 Date: 2024-06-12
 Place: TYPES

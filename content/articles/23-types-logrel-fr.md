@@ -1,6 +1,6 @@
 Title: Engineering Logical Relations for MLTT in Coq
 Slug: types-23-logrel
-Category: Talks
+Category: Exposés
 Lang: fr
 Date: 2023-06-12
 Place: TYPES
