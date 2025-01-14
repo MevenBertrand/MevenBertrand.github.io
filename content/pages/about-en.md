@@ -18,6 +18,7 @@ and their theoretic specifications, in particular in the framework of the [MetaC
 
 ## News
 
+- 2024/12 – I will be in the PC of [ITP '25](https://icetcs.github.io/frocos-itp-tableaux25/itp/).
 - 2024/10 – I will be lecturing two courses this year, [Denotational Semantics](https://www.cl.cam.ac.uk/teaching/2425/DenotSem/) and [Proof Assistants](https://www.cl.cam.ac.uk/teaching/2425/L81/).
 - 2024/09 – A [new version](https://inria.hal.science/hal-04077552) of our MetaCoq paper is out.
 
