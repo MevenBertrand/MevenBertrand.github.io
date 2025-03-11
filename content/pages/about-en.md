@@ -3,13 +3,13 @@ Slug: about
 Lang: en
 Author: Meven Lennon-Bertrand
 Url:
-Date: 2024-12-11
+Date: 2025-02-28
 Save_as: index.html
 
 Post-doctoral researcher in computer science, in the [CLASH](https://www.cl.cam.ac.uk/research/clash/) group at the University of Cambrige.
 
 Before that, PhD student at Inria/University of Nantes in the [Gallinette team](http://gallinette.inria.fr/), under the supervision of [Nicolas Tabareau](http://tabareau.fr).
-Even before that, studied computer science and mathematics at the [ENS de Lyon](http://www.ens-lyon.fr/DI/).
+<!-- Even before that, studied computer science and mathematics at the [ENS de Lyon](http://www.ens-lyon.fr/DI/). -->
 
 My main interests are type theory and proofs assistants, in particular [Coq](https://coq.inria.fr/).
 I am also quite fond of everything revolving around bidirectional typing.
@@ -18,6 +18,8 @@ and their theoretic specifications, in particular in the framework of the [MetaC
 
 ## News
 
+- 2025/02 – A [new preprint](/category/publications) is out, on how to certify conversion-checking algorithms.
+- 2025/01 – Our [paper on MetaCoq](https://dl.acm.org/doi/10.1145/3706056) has appeared at the Journal of the ACM.
 - 2024/12 – I will be in the PC of [ITP '25](https://icetcs.github.io/frocos-itp-tableaux25/itp/).
 - 2024/10 – I will be lecturing two courses this year, [Denotational Semantics](https://www.cl.cam.ac.uk/teaching/2425/DenotSem/) and [Proof Assistants](https://www.cl.cam.ac.uk/teaching/2425/L81/).
 - 2024/09 – A [new version](https://inria.hal.science/hal-04077552) of our MetaCoq paper is out.
