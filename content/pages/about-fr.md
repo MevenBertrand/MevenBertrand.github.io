@@ -3,7 +3,7 @@ Slug: about
 Lang: fr
 Author: Meven Lennon-Bertrand
 Url:
-Date: 2025-02-28
+Date: 2025-07-19
 Save_as: index.html
 
 Post-doctorant en informatique, dans le groupe [CLASH](https://www.cl.cam.ac.uk/research/clash/), au sein du Computer Lab de l'Université de Cambridge.
@@ -11,9 +11,9 @@ Post-doctorant en informatique, dans le groupe [CLASH](https://www.cl.cam.ac.uk/
 Auparavant doctorant au sein de l’équipe Inria [Gallinette](http://gallinette.inria.fr/) et de l’Université de Nantes, encadré par [Nicolas Tabareau](http://tabareau.fr).
 <!-- Ancien élève du [département d’informatique de l’ENS de Lyon](http://www.ens-lyon.fr/DI/). -->
 
-Je m'intéresse principalement à la théorie des types et aux assistants à la preuve, et particulièrement [Coq](https://coq.inria.fr/).
+Je m'intéresse principalement à la théorie des types et aux assistants à la preuve, et particulièrement [Rocq](https://rocq-prover.org/).
 J'apprécie également tout ce qui touche au typage bidirectionnel.
-Je cherche notamment à contribuer à réduire l'écart qui sépare les implémentations complexes des assistants à la preuve à leurs spécifications théoriques, notamment dans le cadre du projet [MetaCoq](https://metacoq.github.io).
+Je cherche notamment à contribuer à réduire l'écart qui sépare les implémentations complexes des assistants à la preuve à leurs spécifications théoriques, notamment dans le cadre du projet [MetaRocq](https://metarocq.github.io/).
 
 ## Contact
 
