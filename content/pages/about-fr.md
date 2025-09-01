@@ -3,12 +3,12 @@ Slug: about
 Lang: fr
 Author: Meven Lennon-Bertrand
 Url:
-Date: 2025-07-19
+Date: 2025-09-01
 Save_as: index.html
 
-Post-doctorant en informatique, dans le groupe [CLASH](https://www.cl.cam.ac.uk/research/clash/), au sein du Computer Lab de l'Université de Cambridge.
+Post-doctorant en informatique, à [Inria](https://www.inria.fr/en) et à l'[IRIF](https://www.irif.fr/en/index).
 
-Auparavant doctorant au sein de l’équipe Inria [Gallinette](http://gallinette.inria.fr/) et de l’Université de Nantes, encadré par [Nicolas Tabareau](http://tabareau.fr).
+Précédemment postdoctorant à l'Université de Cambridge, et encore auparavant doctorant au sein de l’équipe Inria [Gallinette](http://gallinette.inria.fr/) à l’Université de Nantes.
 <!-- Ancien élève du [département d’informatique de l’ENS de Lyon](http://www.ens-lyon.fr/DI/). -->
 
 Je m'intéresse principalement à la théorie des types dépendants et aux assistants à la preuve, et particulièrement [Rocq](https://rocq-prover.org/).
@@ -17,7 +17,9 @@ Je cherche notamment à contribuer à réduire l'écart qui sépare les impléme
 
 ## Contact
 
-Le mieux pour me joindre est de le faire par mail, à *Meven.Lennon-Bertrand\[at\]cl.cam.ac.uk*.
+Le mieux pour me joindre est de le faire par mail, à *meven.bertrand@inria.fr*.
+
+On peut également me trouver à l'IRIF, bâtiment [Sophie Germain building](https://u-paris.fr/batiment-sophie-germain/), bureau 4058.
 
 ## CV
 

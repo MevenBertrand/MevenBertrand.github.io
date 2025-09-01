@@ -3,12 +3,12 @@ Slug: about
 Lang: en
 Author: Meven Lennon-Bertrand
 Url:
-Date: 2025-07-19
+Date: 2025-09-01
 Save_as: index.html
 
-Post-doctoral researcher in computer science, in the [CLASH](https://www.cl.cam.ac.uk/research/clash/) group at the University of Cambridge.
+Post-doctoral researcher in computer science at [Inria](https://www.inria.fr/en) and [IRIF](https://www.irif.fr/en/index).
 
-Before that, PhD student at Inria/University of Nantes in the [Gallinette team](http://gallinette.inria.fr/), under the supervision of [Nicolas Tabareau](http://tabareau.fr).
+Before that, postdoc at the University of Cambridge, and even before that PhD student in the Inria team [Gallinette](http://gallinette.inria.fr/) at the University of Nantes.
 <!-- Even before that, studied computer science and mathematics at the [ENS de Lyon](http://www.ens-lyon.fr/DI/). -->
 
 My main interests are dependent type theory and proofs assistants, in particular [Rocq](https://rocq-prover.org/).
@@ -18,6 +18,7 @@ and their theoretic specifications, in particular in the framework of the [MetaR
 
 ## News
 
+- 2025/09 – I'm starting a new job at IRIF and Inria.
 - 2025/07 – We have a [new preprint](https://hal.science/hal-05167997) on functorial types, continuing the work we presented at Types.
 - 2025/07 – I presented my [work on certifying conversion](categories/publications) at FSCD, which won the best paper by a young researcher award!
 - 2025/07 – Matthew Sirman's work for his master thesis, which I supervised and helped turn into a paper, has been published [in the post-proceedings of Types '24](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TYPES.2024.5).
@@ -32,9 +33,9 @@ and their theoretic specifications, in particular in the framework of the [MetaR
 
 ## Contact
 
-The best way to reach me is by email, at *Meven.Lennon-Bertrand\[at\]cl.cam.ac.uk*.
+The best way to reach me is by email, at *meven.bertrand@inria.fr*.
 
-Otherwise, I might be found at the Computer Lab's *William Gates Building*, office FS18.
+Otherwise, I might be found at IRIF, in the [Sophie Germain building](https://u-paris.fr/batiment-sophie-germain/), office 4058.
 
 ## CV
 
@@ -42,6 +43,6 @@ Here is a [print CV]({static}/documents/CV-en.pdf), most information can also be
 
 <a href="https://tcs4f.org" style="display: inline-block;
 	background-color: #ba151b; border: 2px solid #CCCCCC;
-	padding: 5px; margin: 10px; border-radius: 5px;">
+	padding: 5px; margin: 20px 0 20px 0; border-radius: 5px;">
 	<img width="200" src="https://tcs4f.org/themes/tcs4f/img/logo_TCS4F_initiative_white_long.svg" alt="Theoretical Computer Scientists for Future">
 </a>

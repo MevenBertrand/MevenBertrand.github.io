@@ -63,7 +63,7 @@ USER_LOGO_URL = "moi.jpg"
 ROUND_USER_LOGO = True
 MYNAME = "Meven <br> Lennon-Bertrand"
 TAGLINE = "Postdoc in Computer Science <br> University of Cambridge"
-EMAIL = "Meven.Lennon-Bertrand[at]cl.cam.ac.uk"
+EMAIL = "meven.bertrand@inria.fr"
 SOURCE = "https://github.com/MevenBertrand/MevenBertrand.github.io/"
 
 #Category order
