@@ -18,18 +18,12 @@ and their theoretic specifications, in particular in the framework of the [MetaR
 
 ## News
 
+- 2025/11 – Our [paper on adapters](https://arxiv.org/abs/2507.13774) has just been accepted for POPL '26.
 - 2025/09 – I'm starting a new job at IRIF and Inria.
-- 2025/07 – We have a [new preprint](https://hal.science/hal-05167997) on functorial types, continuing the work we presented at Types.
 - 2025/07 – I presented my [work on certifying conversion](categories/publications) at FSCD, which won the best paper by a young researcher award!
 - 2025/07 – Matthew Sirman's work for his master thesis, which I supervised and helped turn into a paper, has been published [in the post-proceedings of Types '24](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TYPES.2024.5).
-- 2025/06 – Types was a blast! Arthur Adjedj presented [our work on functorial types](categories/talks), and I was elected member of the conference's Steering Commitee.
-<!-- - 2025/04 – My [paper](/category/publications) on certified conversion checking has been accepted at FSCD '25. -->
-<!-- - 2025/04 – Our work with A. Adjedj, T. Benjamin and K. Maillard on functorial adapters has been accepted for a [talk](https://msp.cis.strath.ac.uk/types2025/accepted.html) at TYPES '25. -->
-<!-- - 2025/02 – A [new preprint](/category/publications) is out, on how to certify conversion-checking algorithms. -->
+- 2025/06 – Types was a blast! Arthur Adjedj presented [our work on functorial types](categories/talks), and I was elected member of the conference's Steering Committee.
 - 2025/01 – Our [paper on MetaCoq](https://dl.acm.org/doi/10.1145/3706056) has appeared at the Journal of the ACM.
-- 2024/12 – I will be in the PC of [ITP '25](https://icetcs.github.io/frocos-itp-tableaux25/itp/).
-- 2024/10 – I will be lecturing two courses this year, [Denotational Semantics](https://www.cl.cam.ac.uk/teaching/2425/DenotSem/) and [Proof Assistants](https://www.cl.cam.ac.uk/teaching/2425/L81/).
-<!-- - 2024/09 – A [new version](https://inria.hal.science/hal-04077552) of our MetaCoq paper is out. -->
 
 ## Contact
 

@@ -4,7 +4,7 @@ Category: Publications
 Publication: true
 Lang: en
 Date: 2025-07-03
-Place: Types 2024 Post-proceedings
+Place: Types Post-proceedings
 Accepted: true
 Authors: Matthew Sirman, Meven Lennon-Bertrand, Neel Krishnaswami 
 DOI: 10.4230/LIPIcs.TYPES.2024.5
