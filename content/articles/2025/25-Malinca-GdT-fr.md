@@ -1,6 +1,6 @@
 Title: Formalised metatheory for a verified type-theoretic kernel
 Slug: 25-Malinca
-Category: Talks
+Category: Exposés
 Lang: fr
 Date: 2025-10-22
 Place: Séminaire Malinca

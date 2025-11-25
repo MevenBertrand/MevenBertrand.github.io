@@ -1,6 +1,6 @@
 Title: AdapTT: A Type Theory with Functorial Types
 Slug: 25-types
-Category: Talks
+Category: Exposés
 Lang: fr
 Date: 2025-06-09
 Place: TYPES
