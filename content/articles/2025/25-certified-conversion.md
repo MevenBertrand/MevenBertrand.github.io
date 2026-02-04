@@ -10,7 +10,7 @@ Distinguished: Best paper by junior researcher
 Authors: Meven Lennon-Bertrand
 DOI: 10.4230/LIPIcs.FSCD.2025.27
 Pdf_ex: https://drops.dagstuhl.de/storage/00lipics/lipics-vol337-fscd2025/LIPIcs.FSCD.2025.27/LIPIcs.FSCD.2025.27.pdf
-arxiv: https://arxiv.org/abs/2502.15500
+Arxiv: https://arxiv.org/abs/2502.15500
 Bib: 25-FSCD.bib
 Github: https://github.com/CoqHott/logrel-coq/tree/fscd25
 

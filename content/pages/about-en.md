@@ -3,7 +3,7 @@ Slug: about
 Lang: en
 Author: Meven Lennon-Bertrand
 Url:
-Date: 2026-01-18
+Date: 2026-02-04
 Save_as: index.html
 
 Post-doctoral researcher in computer science at [Inria](https://www.inria.fr/en) and [IRIF](https://www.irif.fr/en/index).
