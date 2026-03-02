@@ -109,6 +109,7 @@ author_webpage = {
              "Arthur Adjedj": "https://github.com/arthur-adjedj",
              "Matthew Sirman": "https://github.com/matthew-sirman",
              "Thibaut Benjamin": "https://thibautbenjamin.github.io/",
+             "Alexis Saurin": "https://www.irif.fr/~saurin/"
              }
 
 def lookup_author_webpage(author):

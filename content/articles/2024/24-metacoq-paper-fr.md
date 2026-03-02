@@ -1,6 +1,6 @@
 Title: Correct and Complete Type Checking and Certified Erasure for Coq, in Coq
 Slug: metacoq-paper
-Category: Publications
+Category: Articles
 Publication: true
 Accepted: true
 Place: Journal of the ACM

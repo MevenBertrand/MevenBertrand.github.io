@@ -1,6 +1,6 @@
 Title: What does it take to certify a conversion checker?
 Slug: certified-conversion
-Category: Publications
+Category: Papers
 Publication: true
 Accepted: true
 Place: Formal Structures for Computation and Deduction

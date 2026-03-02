@@ -3,7 +3,7 @@ Slug: about
 Lang: en
 Author: Meven Lennon-Bertrand
 Url:
-Date: 2026-02-04
+Date: 2026-03-02
 Save_as: index.html
 
 Post-doctoral researcher in computer science at [Inria](https://www.inria.fr/en) and [IRIF](https://www.irif.fr/en/index).
@@ -18,13 +18,14 @@ and their theoretic specifications, in particular in the framework of the [MetaR
 
 ## News
 
+- 2026/03 – We have a [new preprint](https://hal.science/hal-05526634v1) with Alexis Saurin, on (proof-relevant) interpolation and bidirectional typing.
 - 2026/01 – I gave two talks at POPL '26: I presented AdapTT, and gave an invited talk at [WITS](https://popl26.sigplan.org/home/wits-2026). Slides for both are online!
 - 2025/11 – Our [paper on adapters](https://arxiv.org/abs/2507.13774) has just been accepted for POPL '26.
 - 2025/09 – I'm starting a new job at IRIF and Inria!
 - 2025/07 – I presented my [work on certifying conversion](categories/publications) at FSCD, which won the best paper by a young researcher award!
 - 2025/07 – Matthew Sirman's work for his master thesis, which I supervised and helped turn into a paper, has been published [in the post-proceedings of Types '24](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TYPES.2024.5).
 - 2025/06 – Types was a blast! Arthur Adjedj presented [our work on functorial types](categories/talks), and I was elected member of the conference's Steering Committee.
-- 2025/01 – Our [paper on MetaRocq](https://dl.acm.org/doi/10.1145/3706056) has appeared at the Journal of the ACM.
+<!-- - 2025/01 – Our [paper on MetaRocq](https://dl.acm.org/doi/10.1145/3706056) has appeared at the Journal of the ACM. -->
 
 ## Contact
 

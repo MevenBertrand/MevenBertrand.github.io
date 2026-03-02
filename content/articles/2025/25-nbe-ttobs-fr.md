@@ -1,6 +1,6 @@
 Title: Implementing a Type Theory with Observational Equality, Using Normalisation by Evaluation
 Slug: nbe-ttobs-publication
-Category: Publications
+Category: Articles
 Publication: true
 Lang: fr
 Date: 2025-07-03

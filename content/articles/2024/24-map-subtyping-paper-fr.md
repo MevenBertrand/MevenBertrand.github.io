@@ -1,6 +1,6 @@
 Title: Definitional Functoriality for Dependent (Sub)Types
 Slug: map-subtyping-paper
-Category: Publications
+Category: Articles
 Publication: true
 Accepted: true
 Place: European Symposium on Programming

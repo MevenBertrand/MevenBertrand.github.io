@@ -1,6 +1,6 @@
 Title: Complete Bidirectional Typing for the Calculus of Inductive Constructions 
 Slug: itp21
-Category: Publications
+Category: Papers
 Publication: true
 Lang: en
 Date: 2021-04-19

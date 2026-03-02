@@ -1,6 +1,6 @@
 Title: AdapTT: Functoriality for Dependent Type Casts
 Slug: adaptt
-Category: Publications
+Category: Papers
 Publication: true
 Accepted: true
 Place: Symposium on Principles of Programming Languages
