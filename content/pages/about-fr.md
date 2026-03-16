@@ -19,7 +19,7 @@ Je cherche notamment à contribuer à réduire l'écart qui sépare les impléme
 
 Le mieux pour me joindre est de le faire par mail, à *meven.bertrand@inria.fr*.
 
-On peut également me trouver à l'IRIF, bâtiment [Sophie Germain building](https://u-paris.fr/batiment-sophie-germain/), bureau 4058.
+On peut également me trouver à l'IRIF, bâtiment [Sophie Germain](https://u-paris.fr/batiment-sophie-germain/), bureau 4058.
 
 ## CV
 
