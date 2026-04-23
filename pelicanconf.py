@@ -40,8 +40,8 @@ AUTHOR_FEED_RSS = None
 SOCIAL = (
   ('github', 'https://github.com/MevenBertrand'),
   ('mastodon','https://lipn.info/@mevenlennonbertrand'),
-  ('stack-exchange','https://proofassistants.stackexchange.com/users/367/meven-lennon-bertrand'),
-  ('orcid','https://orcid.org/0000-0002-7079-8826')
+  ('stack-overflow','https://proofassistants.stackexchange.com/users/367/meven-lennon-bertrand'),
+  ('orcid','https://orcid.org/0000-0002-7079-8826'),
 )
 
 ACADEMIA = (
