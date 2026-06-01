@@ -287,6 +287,10 @@ ul.social {
     color: #a6ce39;
   }
 
+  a.sc-stack-overflow {
+    color: #111010;
+  }
+
   a.sc-zenodo {
     color: #111010;
   }
