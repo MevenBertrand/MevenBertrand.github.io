@@ -98,7 +98,7 @@ author_webpage = {
              "Kenji Maillard": "https://kenji.maillard.blue/",
              "Matthieu Sozeau": "https://sozeau.gitlabpages.inria.fr/www/",
              "Yannick Forster": "https://yforster.github.io/",
-             "The MetaCoq Team": "https://metacoq.github.io/#team--credits",
+             "The MetaRocq Team": "https://metarocq.github.io/#team--credits",
              "Pierre-Marie Pédrot": "https://www.pédrot.fr/",
              "Arthur Adjedj": "https://github.com/arthur-adjedj",
              "Loïc Pujet": "https://pujet.fr",

@@ -1,9 +1,9 @@
-Title: MetaCoq
-Slug: metacoq
+Title: MetaRocq
+Slug: metarocq
 Category: Formalisations
 Lang: fr
 Ongoing: true
 Date: 2020-01
-Authors: The MetaCoq Team
-Page: https://metacoq.github.io/
-GitHub: https://github.com/MetaCoq/metacoq
+Authors: The MetaRocq Team
+Page: https://metarocq.github.io/
+GitHub: https://github.com/MetaRocq/metarocq

@@ -1,4 +1,4 @@
-Title: LogRel Coq
+Title: LogRel Rocq
 Slug: logrel-coq
 Category: Formalisations
 Lang: en

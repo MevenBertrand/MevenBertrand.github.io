@@ -13,7 +13,7 @@ Précédemment postdoctorant à l'Université de Cambridge, et encore auparavant
 
 Je m'intéresse principalement à la théorie des types dépendants et aux assistants à la preuve, et particulièrement [Rocq](https://rocq-prover.org/).
 J'apprécie également tout ce qui touche au typage bidirectionnel.
-Je cherche notamment à contribuer à réduire l'écart qui sépare les implémentations complexes des assistants à la preuve à leurs spécifications théoriques, notamment dans le cadre du projet [MetaRocq](https://metarocq.github.io/).
+Je cherche notamment à contribuer à réduire l'écart qui sépare les implémentations complexes des assistants à la preuve à leurs spécifications théoriques.
 
 ## Contact
 
@@ -23,7 +23,7 @@ On peut également me trouver à l'IRIF, bâtiment [Sophie Germain](https://u-pa
 
 ## CV
 
-Voici mon [CV]({static}/documents/CV-fr.pdf), la majorité des informations sont également disponibles directement sur ce site.
+Voici mon [CV]({static}/documents/CV-en.pdf) (en anglais). La majorité des informations sont également disponibles directement sur ce site.
 
 <a href="https://tcs4f.org" style="display: inline-block;
 	background-color: #ba151b; border: 2px solid #CCCCCC;
