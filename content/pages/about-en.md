@@ -18,7 +18,7 @@ and their theoretic specifications.
 
 ## News
 
-- 2026-06 – I'll be talking at the [Formal proof and sythetic mathematics school](https://matematiflo.github.io/ProofWorkshop2026/).
+- 2026-06 – I talked at the [Formal proof and sythetic mathematics school](https://matematiflo.github.io/ProofWorkshop2026/), slides are [online](category/talks).
 - 2026/03 – Our [preprint](https://hal.science/hal-05526634v1) with Alexis Saurin, on (proof-relevant) interpolation and bidirectional typing, has
     been accepted at ITP '26. See you in Lisbon!
 - 2026/01 – I gave two talks at POPL '26: I presented [AdapTT](https://dl.acm.org/doi/10.1145/3776664) in the main track, and gave an invited talk at [WITS](https://popl26.sigplan.org/home/wits-2026). Slides for both are online.
