@@ -1,5 +1,5 @@
 Title: An introduction to Generalised Algebraic Theories
-Slug: 26-gat-en
+Slug: 26-gat
 Category: Talks
 Lang: en
 Date: 2026-06-26

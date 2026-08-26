@@ -109,7 +109,12 @@ author_webpage = {
              "Arthur Adjedj": "https://github.com/arthur-adjedj",
              "Matthew Sirman": "https://github.com/matthew-sirman",
              "Thibaut Benjamin": "https://thibautbenjamin.github.io/",
-             "Alexis Saurin": "https://www.irif.fr/~saurin/"
+             "Alexis Saurin": "https://www.irif.fr/~saurin/",
+             "Thierry Coquand": "https://www.cse.chalmers.se/~coquand/",
+             "Mario Carneiro": "https://digama0.github.io/",
+             "Stephanie Weirich": "https://www.cis.upenn.edu/~sweirich/",
+             "Paul-André Melliès": "https://www.irif.fr/~mellies/",
+             "Adrien Frabetti Mathieu": "https://microbo.eu/about-me/",
              }
 
 def lookup_author_webpage(author):

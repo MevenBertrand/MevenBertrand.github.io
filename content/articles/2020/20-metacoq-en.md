@@ -1,5 +1,5 @@
 Title: MetaRocq
-Slug: metacoq
+Slug: metarocq
 Category: Formalisations
 Lang: en
 Ongoing: true
