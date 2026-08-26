@@ -18,6 +18,7 @@ and their theoretic specifications.
 
 ## News
 
+- 2026-07 – I gave two talks at [FLOC](https://www.floc26.org/), one at the Rocqshop on porting a Rocq library, and one at ITP.
 - 2026-07 – New [pre-print](https://hal.science/hal-05693359v1), on using domain theory to prove meta-theoretic properties of MLTT without needing normalisation. Check it out!
 - 2026/07 – Our work on (proof-relevant) interpolation and bidirectional typing, has appeared in the [proceedings of ITP '26](https://doi.org/10.4230/LIPIcs.ITP.2026.30).
 - 2026-06 – I gave an introduction to generalised algebraic theories at the [Formal proof and sythetic mathematics school](https://matematiflo.github.io/ProofWorkshop2026/), slides are [online](category/talks).
