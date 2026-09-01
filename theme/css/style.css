@@ -19,6 +19,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
   margin-bottom: 1em;
   margin-top: 1em;
+  color: #000000 ;
 }
 
 h1 {
@@ -35,8 +36,11 @@ h2.entry-title {
 }
 
 a {
-  color: #000000;
   text-decoration: none;
+}
+
+a {
+  color: inherit;
 }
 
 hr {
@@ -46,7 +50,7 @@ hr {
   border: none;
 }
 img {
-  max-width: 100%;
+  max-width: 200px;
 }
 .round-img {
   border-radius: 50%;
@@ -66,7 +70,7 @@ aside div#user_meta h2 {
 }
 aside div#user_meta p {
   margin: 0 0 15px 0;
-  font-size: .8rem;
+  font-size: .9rem;
 }
 nav ul, .article-links a {
   margin: 20px 0 0 0;
@@ -80,7 +84,7 @@ nav ul li a, .article-links a {
   color: #fff;
 	margin-bottom: 10px;
 	margin-top: 0;
-	background-color: #999999;
+	background-color: #4a7a96;
   padding: 5px 15px 5px 15px;
   font-variant: small-caps;
 	border-radius: 15px;
@@ -95,8 +99,12 @@ nav ul li a, .article-links a {
   color: #999999; */
 }
 
-nav a.active, .article-links a {
-  background-color: #3d9b07;
+nav a.active {
+  background-color: #ee8695;
+}
+
+.article-links a {
+  background-color: #4a7a96;
 }
 
 main header {
@@ -132,14 +140,18 @@ main article il {
 }
 
 main article div.article_text {
-  font-size: .9rem;
+  font-size: 1rem;
   line-height: 1.375em;
+}
+
+main article div.article_text a {
+  color: #4a7a96;
 }
 
 main article div.article_text code {
   margin: 2px;
   padding: 0;
-  color: #000000;
+  color: #4a7a96;
   font-size: .8rem;
   font-family: 'PT Mono', monospace;
   background: #eeeeee;
@@ -147,8 +159,8 @@ main article div.article_text code {
 main article div.article_text pre {
   margin: 22px 2px 22px 2px;
   padding: 2px;
-  color: #000000;
-  border-left: 3px solid #3d9b07;
+  color: #4a7a96;
+  border-left: 3px solid #4a7a96;
   font-size: .8rem;
   font-family: 'PT Mono', monospace;
   background: #eeeeee;
@@ -182,38 +194,45 @@ main article div.article_text div.imageblock {
 main article div.gist {
   line-height: .875em;
 }
+
 main article div.article_meta, div.article_readtime {
-  font-size: .8rem;
-  color: #999999;
+  font-size: 1rem;
+  color: #4a7a96;
   margin: 10px 0;
 }
+
 main footer {
   border-top: #eeeeee 1px solid;
   padding: 40px;
 }
 main footer a.button_accent {
   padding: 10px;
-  border: 2px solid #3d9b07;
+  border: 2px solid #4a7a96;
   border-radius: 20px;
   -moz-border-radius: 20px;
   -webkit-border-radius: 20px;
   text-transform: uppercase;
-  color: #3d9b07;
+  color: #4a7a96;
   font-size: 1rem;
 }
 main footer a.button_accent:hover {
   color: #ffffff;
-  background-color: #3d9b07;
+  background-color: #4a7a96;
 }
 main footer a.button_accent:active {
   color: #ffffff;
-  background-color: #3d9b07;
+  background-color: #4a7a96;
 }
+
 main div#ending_message {
   border-top: #eeeeee 1px solid;
   padding: 10px;
   color: #999999;
   font-size: .65rem;
+}
+
+main div#ending_message a {
+  color:#4d4d4d ;
 }
 
 .presenter {
@@ -233,7 +252,7 @@ main div#ending_message {
     margin: 10px 0 0 0;
   }
   aside div#user_meta {
-    max-width: 230px;
+    max-width: 300px;
     text-align: right;
   }
   
