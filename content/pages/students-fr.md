@@ -6,11 +6,11 @@ Author: Meven Lennon-Bertrand
 
 ## Actuels
 
-- **Simon Corbard**: thèse, co-encadrée avec Thibaut Benjamin, et Sam van Gool comme encadrant HDR
+- [**Simon Corbard**](https://github.com/silune/): thèse, co-encadrée avec Thibaut Benjamin, et Sam van Gool comme encadrant HDR
 
 ## Passés
 
-- **Simon Corbard**: stage de M2 (ENS Paris-Saclay), co-encadré avec Thibaut Benjamin
+- [**Simon Corbard**](https://github.com/silune/): stage de M2 (ENS Paris-Saclay), co-encadré avec Thibaut Benjamin
 - [**Adrien Mathieu**](https://www.irif.fr/~amathieu): stage long ENS Paris, encadrant principal = Paul-André Melliès
 - [**Ilya Kaysin**](https://ilya.fun/): thèse à l'Université de Cambridge, encadrant principal = Neel Krishnaswami
 - [**Arthur Adjedj**](https://arthur-adjedj.github.io/): stage long ENS Paris-Saclay

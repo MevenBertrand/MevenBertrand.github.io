@@ -1,6 +1,7 @@
 Title: Definitional Inversion, Without Normalisation
 Slug: domains-logrel
 Category: Articles
+Publication: true
 Submitted: true
 Lang: fr
 Date: 2026-07-10

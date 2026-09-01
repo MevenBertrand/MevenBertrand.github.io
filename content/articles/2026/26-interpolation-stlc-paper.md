@@ -1,6 +1,6 @@
 Title: Bidirectional Interpolation for the Lambda-Calculus: Revisiting and Formalising Craig-Čubrić Interpolation
 Slug: interpolation-stlc-paper
-Category: Papers
+Category: Publications
 Publication: true
 Accepted: true
 Place: Interactive Theorem Proving

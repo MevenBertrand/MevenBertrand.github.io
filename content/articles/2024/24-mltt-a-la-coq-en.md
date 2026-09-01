@@ -1,6 +1,6 @@
 Title: Martin-Löf <em>à la</em> Coq
 Slug: mltt-a-la-coq
-Category: Papers
+Category: Publications
 Publication: true
 Lang: en
 Date: 2024-01-15

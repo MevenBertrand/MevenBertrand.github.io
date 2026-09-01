@@ -3,13 +3,15 @@ Slug: about
 Lang: fr
 Author: Meven Lennon-Bertrand
 Url:
-Date: 2025-09-01
+Date: 2026-09-01
 Save_as: index.html
 
 
 Maître de conférences à l'[ENS Rennes](https://www.ens-rennes.fr/). Je fais ma recherche dans l'équipe [Épicure](https://team.inria.fr/epicure/) à l'IRISA et INRIA.
 
 Précédemment postdoctorant dans l'équipe Picube de l'IRIF et à l'Université de Cambridge. J'ai fait ma thèse dans l’équipe Inria [Gallinette](http://gallinette.inria.fr/) à l’Université de Nantes.
+
+## Recherche
 
 Je m'intéresse principalement aux assistants à la démonstration: j'espère les
 rendre meilleurs et plus sûrs en travaillant sur leurs fondations logiques,
