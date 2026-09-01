@@ -1,4 +1,4 @@
-Title:  Séminaire de théorie des catégories
+Title: Séminaire de théorie des catégories
 Slug: thcat-seminar
 Category: Enseignement
 Lang: fr

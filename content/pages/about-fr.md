@@ -6,20 +6,22 @@ Url:
 Date: 2025-09-01
 Save_as: index.html
 
-Post-doctorant en informatique, à [Inria](https://www.inria.fr/en) et à l'[IRIF](https://www.irif.fr/en/index).
 
-Précédemment postdoctorant à l'Université de Cambridge, et encore auparavant doctorant au sein de l’équipe Inria [Gallinette](http://gallinette.inria.fr/) à l’Université de Nantes.
-<!-- Ancien élève du [département d’informatique de l’ENS de Lyon](http://www.ens-lyon.fr/DI/). -->
+Maître de conférences à l'[ENS Rennes](https://www.ens-rennes.fr/). Je fais ma recherche dans l'équipe [Épicure](https://team.inria.fr/epicure/) à l'IRISA et INRIA.
 
-Je m'intéresse principalement à la théorie des types dépendants et aux assistants à la preuve, et particulièrement [Rocq](https://rocq-prover.org/).
-J'apprécie également tout ce qui touche au typage bidirectionnel.
-Je cherche notamment à contribuer à réduire l'écart qui sépare les implémentations complexes des assistants à la preuve à leurs spécifications théoriques.
+Précédemment postdoctorant dans l'équipe Picube de l'IRIF et à l'Université de Cambridge. J'ai fait ma thèse dans l’équipe Inria [Gallinette](http://gallinette.inria.fr/) à l’Université de Nantes.
+
+Je m'intéresse principalement aux assistants à la démonstration: j'espère les
+rendre meilleurs et plus sûrs en travaillant sur leurs fondations logiques,
+la théorie des types dépendants.
+Ça implique d'essayer de vérifier les implémentations complexes des assistants
+à la démonstration actuels, et de développer des nouvelles fonctionnalités
+de théorie des types à intégrer dans ceux de demain.
 
 ## Contact
 
-Le mieux pour me joindre est de le faire par mail, à *meven.bertrand@inria.fr*.
-
-On peut également me trouver à l'IRIF, bâtiment [Sophie Germain](https://u-paris.fr/batiment-sophie-germain/), bureau 4058.
+Le mieux pour me joindre est de le faire par mail, à *meven.bertrand@ens-rennes.fr*.
+On peut également me trouver à l'[IRISA](https://www.irisa.fr/localisez-nous-rennes), bureau F211.
 
 ## CV
 

@@ -62,7 +62,7 @@ THEME = "themes/pelican-svbhack"
 USER_LOGO_URL = "moi.jpg"
 ROUND_USER_LOGO = True
 MYNAME = "Meven <br> Lennon-Bertrand"
-TAGLINE = "Postdoc in Computer Science <br> Inria – IRIF, Université Paris Cité"
+TAGLINE = "Maître de Conférence in Computer Science <br> ENS Rennes"
 EMAIL = "meven.bertrand@inria.fr"
 SOURCE = "https://github.com/MevenBertrand/MevenBertrand.github.io/"
 
@@ -114,7 +114,7 @@ author_webpage = {
              "Mario Carneiro": "https://digama0.github.io/",
              "Stephanie Weirich": "https://www.cis.upenn.edu/~sweirich/",
              "Paul-André Melliès": "https://www.irif.fr/~mellies/",
-             "Adrien Frabetti Mathieu": "https://microbo.eu/about-me/",
+             "Adrien Frabetti Mathieu": "https://www.irif.fr/~amathieu",
              }
 
 def lookup_author_webpage(author):

@@ -1,4 +1,4 @@
-Title:  Category Theory Seminar
+Title: Category Theory Seminar
 Slug: thcat-seminar
 Category: Teaching
 Lang: en

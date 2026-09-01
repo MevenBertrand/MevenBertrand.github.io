@@ -1,10 +1,10 @@
-Title: University of Cambridge – Cours Magistral
+Title: University of Cambridge
 Slug: teaching-cam
 Category: Enseignement
 Lang: fr
 Date: 2023-09-01
 Start: 2023-09-01
-Ongoing: true
+End: 2024-12-31
 
 **Denotational Semantics** Part II (3ème année). Pages internet: [automne 2023](https://www.cl.cam.ac.uk/teaching/2324/DenotSem/), [automne 2024](https://www.cl.cam.ac.uk/teaching/2425/DenotSem/).
 
