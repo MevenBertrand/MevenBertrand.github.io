@@ -123,6 +123,14 @@ main article p {
   padding: 2px 5px ;
 }
 
+main article ul {
+  padding: 2px 5px ;
+}
+
+main article il {
+  padding: 2px 5px ;
+}
+
 main article div.article_text {
   font-size: .9rem;
   line-height: 1.375em;
