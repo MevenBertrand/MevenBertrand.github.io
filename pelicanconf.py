@@ -69,12 +69,11 @@ SOURCE = "https://github.com/MevenBertrand/MevenBertrand.github.io/"
 #Category order
 
 CATEGORIES_CUSTOM_ORDER = [
-    'About',
     'Publications',
     'Talks',
     'Formalisations',
     'Teaching',
-    'Dissemination',
+    'Outreach',
     'PhD Thesis',
 ]
 

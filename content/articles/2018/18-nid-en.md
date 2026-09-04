@@ -1,6 +1,6 @@
 Title: Normalized information distance
 Slug: nid
-Category: Dissemination
+Category: Outreach
 Lang: en
 Date: 2018-02-07
 Pdf_loc: nid.pdf

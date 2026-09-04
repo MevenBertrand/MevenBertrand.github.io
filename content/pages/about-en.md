@@ -24,6 +24,7 @@ to be (hopefully!) incorporated in the ones of tomorrow.
 
 - 2026-09 – Simon Corbard is starting his PhD, co-supervised by [Thibaut Benjamin](https://thibautbenjamin.github.io/) and myself, with [Sam van Gool](https://samvangool.net/) as senior advisor.
 - 2026-09 — **I'm starting as a maître de conférences at ENS Rennes!**
+- 2026-08 – I'll be on the PC of [ICFP 2027](https://icfp27.sigplan.org/).
 - 2026-07 – I gave two talks at [FLOC](https://www.floc26.org/), one at the Rocqshop on porting a Rocq library, and one at ITP.
 - 2026-07 – New [pre-print](https://hal.science/hal-05693359v1), on using domain theory to prove meta-theoretic properties of MLTT without needing normalisation. Check it out!
 - 2026/07 – Our work on (proof-relevant) interpolation and bidirectional typing, has appeared in the [proceedings of ITP '26](https://doi.org/10.4230/LIPIcs.ITP.2026.30).
@@ -41,7 +42,7 @@ The best way to reach me is by email, at *meven.bertrand@inria.fr*. My office is
 
 ## CV
 
-Here is a pretty detailed [analytic CV]({static}/documents/CV-en.pdf). Most information can be found directly on this website.
+Here is a pretty detailed [CV]({static}/documents/CV-en.pdf). Most information can also be found directly on this website.
 
 <a href="https://tcs4f.org" style="display: inline-block;
 	background-color: #ba151b; border: 2px solid #CCCCCC;

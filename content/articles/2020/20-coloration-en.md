@@ -1,6 +1,6 @@
 Title: Four colors theorem
 Slug: coloration
-Category: Dissemination
+Category: Outreach
 Lang: en
 Date: 2020-01-17
 Video: https://www.youtube.com/watch?v=7OgvVzNz08g

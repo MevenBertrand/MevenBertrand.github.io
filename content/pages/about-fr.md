@@ -27,7 +27,7 @@ On peut également me trouver à l'[IRISA](https://www.irisa.fr/localisez-nous-r
 
 ## CV
 
-Voici mon [CV]({static}/documents/CV-en.pdf) (en anglais). La majorité des informations sont également disponibles directement sur ce site.
+J'ai un [CV]({static}/documents/CV-en.pdf) (en anglais). La majorité des informations sont disponibles directement sur ce site.
 
 <a href="https://tcs4f.org" style="display: inline-block;
 	background-color: #ba151b; border: 2px solid #CCCCCC;
