@@ -36,9 +36,15 @@ to be (hopefully!) incorporated in the ones of tomorrow.
 <!-- - 2025/06 – Types was a blast! Arthur Adjedj presented [our work on functorial types](categories/talks), and I was elected member of the conference's Steering Committee. -->
 <!-- - 2025/01 – Our [paper on MetaRocq](https://dl.acm.org/doi/10.1145/3706056) has appeared at the Journal of the ACM. -->
 
+## Name
+
+For French natives who like accents: there are none on my first name!
+
+I pronounce my first name [mevɛn], and my last name [lenɔ̃ bɛʁtʁɑ̃] (as a French speaker naturally would), but I don't mind any variation thereof: with English speakers I myself pronounce it rather like [mɛvɛn lənən bɛʁtʁɑ̃].
+
 ## Contact
 
-The best way to reach me is by email, at *meven.bertrand@inria.fr*. My office is F211 at [IRISA](https://www.irisa.fr/localisez-nous-rennes).
+The best way to reach me is by email, at *meven.lennon-bertrand@inria.fr*. My physical office is F211 at [IRISA](https://www.irisa.fr/localisez-nous-rennes).
 
 ## CV
 

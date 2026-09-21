@@ -22,7 +22,7 @@ de théorie des types à intégrer dans ceux de demain.
 
 ## Contact
 
-Le mieux pour me joindre est de le faire par mail, à *meven.bertrand@ens-rennes.fr*.
+Le mieux pour me joindre est de le faire par mail, à *meven.lennon-bertrand@inria.fr*.
 On peut également me trouver à l'[IRISA](https://www.irisa.fr/localisez-nous-rennes), bureau F211.
 
 ## CV
