@@ -4,5 +4,4 @@ Category: Exposés
 Lang: fr
 Date: 2025-11-24
 Place: Séminaire CASH, Séminaire Formath
-Authors: Meven Lennon-Bertrand
 Slides_loc: 25-Adapters-seminar.pdf

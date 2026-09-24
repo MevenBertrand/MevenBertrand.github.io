@@ -4,5 +4,4 @@ Category: Talks
 Lang: en
 Date: 2025-07-15
 Place: FSCD
-Authors: Meven Lennon-Bertrand
 Slides_loc: 25-FSCD.pdf
