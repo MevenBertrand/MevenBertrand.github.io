@@ -22,7 +22,7 @@ to be (hopefully!) incorporated in the ones of tomorrow.
 
 ## News
 
-- 2026-09 – Simon Corbard is starting his PhD, co-supervised by [Thibaut Benjamin](https://thibautbenjamin.github.io/) and myself, with [Sam van Gool](https://samvangool.net/) as senior advisor.
+- 2026-09 – [Simon Corbard](https://simoncorbard.fr/) is starting his PhD, co-supervised by [Thibaut Benjamin](https://thibautbenjamin.github.io/) and myself, with [Sam van Gool](https://samvangool.net/) as senior advisor.
 - 2026-09 — **I'm starting as a maître de conférences at ENS Rennes!**
 - 2026-08 – I'll be on the PC of [ICFP 2027](https://icfp27.sigplan.org/).
 - 2026-07 – I gave two talks at [FLOC](https://www.floc26.org/), one at the Rocqshop on porting a Rocq library, and one at ITP.

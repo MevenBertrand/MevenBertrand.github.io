@@ -6,11 +6,11 @@ Author: Meven Lennon-Bertrand
 
 ## Current
 
-- [**Simon Corbard**](https://github.com/silune/): PhD, co-supervised with Thibaut Benjamin, with Sam van Gool as senior advisor
+- [**Simon Corbard**](https://simoncorbard.fr/): PhD, co-supervised with Thibaut Benjamin, with Sam van Gool as senior advisor
 
 ## Past
 
-- [**Simon Corbard**](https://github.com/silune/): M2 internship (ENS Paris-Saclay), co-supervised with Thibaut Benjamin
+- [**Simon Corbard**](https://simoncorbard.fr/): M2 internship (ENS Paris-Saclay), co-supervised with Thibaut Benjamin
 - [**Adrien Mathieu**](https://www.irif.fr/~amathieu): ENS Paris long internship, main supervisor = Paul-André Melliès
 - [**Ilya Kaysin**](https://ilya.fun/): PhD student at the University of Cambridge, main supervisor = Neel Krishnaswami
 - [**Arthur Adjedj**](https://arthur-adjedj.github.io/): ENS Paris-Saclay long internship
